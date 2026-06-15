@@ -9,8 +9,8 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "name": "Person-Centred Collections",
-      "description": "RO-Crate generated from docx files in the person-centred-collections dataset.",
+      "name": "Anmatyerr language and culture",
+      "description": "A guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell.",
       "datePublished": "2026-06-15",
       "hasPart": [
         {
