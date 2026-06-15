@@ -11,16 +11,16 @@
       "@type": "Dataset",
       "name": "Person-Centred Collections",
       "description": "RO-Crate generated from docx files in the person-centred-collections dataset.",
-      "datePublished": "2026-06-13",
+      "datePublished": "2026-06-15",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/"
+          "@id": "#AnmWeb1-HOME"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/"
+          "@id": "#AnmWeb2_Recollections"
         },
         {
-          "@id": "data/AnmWeb3-Projects/"
+          "@id": "#AnmWeb3-Projects"
         }
       ]
     },
@@ -36,668 +36,723 @@
       }
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-1",
+      "@id": "#AnmWeb1-HOME-Home-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "About",
       "headlineLevel": 2,
-      "text": "<strong>Angkety anantherr apwertelh-iletyeh – we are gathering the stories together </strong>is a website that provides a guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell. The website is designed for younger generations and for students who study far away from Ti Tree and want access to cultural and historical stories. It is also a celebration of the significant achievements of these three women."
+      "text": "<p><strong>Angkety anantherr apwertelh-iletyeh – we are gathering the stories together </strong>is a website that provides a guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell. The website is designed for younger generations and for students who study far away from Ti Tree and want access to cultural and historical stories. It is also a celebration of the significant achievements of these three women.</p>"
     },
     {
-      "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-01.jpg",
+      "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg",
       "@type": "File",
       "name": "AnmWeb1-HOME-01.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-2#media-1",
+      "@id": "#AnmWeb1-HOME-Home-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-01.jpg"
+        "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg"
       },
-      "caption": "<strong>caption: </strong>April Pengart Campbell",
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg"
+        }
+      ],
+      "caption": "April Pengart Campbell",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-2",
+      "@id": "#AnmWeb1-HOME-Home-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "April Pengart Campbell",
       "headlineLevel": 2,
-      "text": "<strong>April </strong>is an educator, artist and author and a role model for her Anmatyerr people. She currently works teaching language and culture at Ti Tree School.",
+      "text": "<p><strong>April </strong>is an educator, artist and author and a role model for her Anmatyerr people. She currently works teaching language and culture at Ti Tree School. </p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-2#media-1"
+          "@id": "#AnmWeb1-HOME-Home-chapter-2-media-1"
         }
       ]
     },
     {
-      "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-02.JPG",
+      "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-02.JPG",
       "@type": "File",
       "name": "AnmWeb1-HOME-02.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-3#media-1",
+      "@id": "#AnmWeb1-HOME-Home-chapter-3-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-02.JPG"
+        "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-02.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-02.JPG"
+        }
+      ],
       "caption": "Clarrie Kemarr Long and Eileen Perrwerl Campbell",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-3",
+      "@id": "#AnmWeb1-HOME-Home-chapter-3",
       "@type": [
         "Chapter"
       ],
       "position": 3,
       "headline": "Clarrie Kemarr Long and Eileen Perrwerl Campbell",
       "headlineLevel": 2,
-      "text": "<strong>Clarrie </strong>(Anmatyerr/Warlpiri) and <strong>Eileen </strong>(Anmatyerr) are elders who have long been involved in supporting language and culture at Ti Tree School. They are experts on spoken languages, signed languages, women’s ceremonial songs and dances, and sand stories. They are April’s close family and important cultural teachers.",
+      "text": "<p><strong>Clarrie </strong>(Anmatyerr/Warlpiri) and <strong>Eileen </strong>(Anmatyerr) are elders who have long been involved in supporting language and culture at Ti Tree School. They are experts on spoken languages, signed languages, women’s ceremonial songs and dances, and sand stories. They are April’s close family and important cultural teachers.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-3#media-1"
+          "@id": "#AnmWeb1-HOME-Home-chapter-3-media-1"
         }
       ]
     },
     {
-      "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-03.jpg",
+      "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-03.jpg",
       "@type": "File",
       "name": "AnmWeb1-HOME-03.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-4#media-1",
+      "@id": "#AnmWeb1-HOME-Home-chapter-4-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb1-HOME/AnmWeb1-HOME-03.jpg"
+        "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-03.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb1-HOME/media/AnmWeb1-HOME-03.jpg"
+        }
+      ],
       "caption": "Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025",
       "creditText": "Peter XX"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-4",
+      "@id": "#AnmWeb1-HOME-Home-chapter-4",
       "@type": [
         "Chapter"
       ],
       "position": 4,
       "headline": "Acknowledgements",
       "headlineLevel": 2,
-      "text": "We thank all the families of April, Clarrie and Eileen who have supported and encouraged us to make this website. Young people are really excited, and they are looking forward to seeing and using it. Also acknowledged is Seraphina Pengart Presley. As a teenager, April was inspired by Seraphina, who played an important role in April’s learning to become a language teacher. Seraphina taught April to read and write in Anmatyerr, and she taught her how to plan and teach two-ways – western way and in her first language.\n\nResearch, consultation and website design by April Campbell, Jennifer Green (The University of Melbourne), Angela Harrison (Batchelor Institute), and Ben Foley (University of Queensland). We also thank those who provided content and feedback, including Myfany Turpin, Steve Berry, Jason Gibson, Margaret Carew, David Strickland, Mingfang Strickland XX.",
+      "text": "<p>We thank all the families of April, Clarrie and Eileen who have supported and encouraged us to make this website. Young people are really excited, and they are looking forward to seeing and using it. Also acknowledged is Seraphina Pengart Presley. As a teenager, April was inspired by Seraphina, who played an important role in April’s learning to become a language teacher. Seraphina taught April to read and write in Anmatyerr, and she taught her how to plan and teach two-ways – western way and in her first language.</p>\n\n<p>Research, consultation and website design by April Campbell, Jennifer Green (The University of Melbourne), Angela Harrison (Batchelor Institute), and Ben Foley (University of Queensland). We also thank those who provided content and feedback, including Myfany Turpin, Steve Berry, Jason Gibson, Margaret Carew, David Strickland, Mingfang Strickland XX.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-4#media-1"
+          "@id": "#AnmWeb1-HOME-Home-chapter-4-media-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-5",
+      "@id": "#AnmWeb1-HOME-Home-chapter-5",
       "@type": [
         "Chapter"
       ],
       "position": 5,
       "headline": "Funding",
       "headlineLevel": 2,
-      "text": "The Language Data Commons of Australia (LDaCA) project receives investment from the Australian Research Data Commons (ARDC) through its HASS and Indigenous Research Data Commons program. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS). Batchelor CALL is funded through the Indigenous Languages and the Arts program.\n\nThis project is an International Decade of Indigenous Languages project."
+      "text": "<p>The Language Data Commons of Australia (LDaCA) project receives investment from the Australian Research Data Commons (ARDC) through its HASS and Indigenous Research Data Commons program. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS). Batchelor CALL is funded through the Indigenous Languages and the Arts program.</p>\n\n<p>This project is an International Decade of Indigenous Languages project.</p>"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-6",
+      "@id": "#AnmWeb1-HOME-Home-chapter-6",
       "@type": [
         "Chapter"
       ],
       "position": 6,
       "headline": "How to cite this page",
       "headlineLevel": 2,
-      "text": "Campbell, April Pengart, Jennifer Green, Angela Harrison and Ben Foley.XXXX. Alice Springs: Batchelor Institute. (https://www.veronicadobson.au/.) (Accessed YYYY-MM-DD)."
+      "text": "<p>Campbell, April Pengart, Jennifer Green, Angela Harrison and Ben Foley.XXXX. Alice Springs: Batchelor Institute. (https://www.veronicadobson.au/.) (Accessed YYYY-MM-DD).</p>"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx#chapter-7",
+      "@id": "#AnmWeb1-HOME-Home-chapter-7",
       "@type": [
         "Chapter"
       ],
       "position": 7,
       "headline": "Contact us",
       "headlineLevel": 2,
-      "text": "<a href=\"mailto:call@batchelor.edu.au?subject=Veronica%20Dobson%20site\" target=\"_blank\">Email us</a> with any feedback about the site."
+      "text": "<p><a href=\"mailto:call@batchelor.edu.au?subject=Veronica%20Dobson%20site\" target=\"_blank\">Email us</a> with any feedback about the site.</p>"
     },
     {
-      "@id": "data/AnmWeb1-HOME/Home.docx",
+      "@id": "#AnmWeb1-HOME-Home",
       "@type": "Article",
       "name": "Angkety anantherr apwertelh-iletyeh",
-      "articleBody": "## About\n\n<strong>Angkety anantherr apwertelh-iletyeh – we are gathering the stories together </strong>is a website that provides a guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell. The website is designed for younger generations and for students who study far away from Ti Tree and want access to cultural and historical stories. It is also a celebration of the significant achievements of these three women.\n\n---\n\n## April Pengart Campbell\n\n<strong>April </strong>is an educator, artist and author and a role model for her Anmatyerr people. She currently works teaching language and culture at Ti Tree School.\n\n![Caption: <strong>caption: </strong>April Pengart Campbell\nPhoto: Jennifer Green](assets/AnmWeb1-HOME/AnmWeb1-HOME-01.jpg)\n\nCaption: <strong>caption: </strong>April Pengart Campbell\nPhoto: Jennifer Green\n\n---\n\n## Clarrie Kemarr Long and Eileen Perrwerl Campbell\n\n<strong>Clarrie </strong>(Anmatyerr/Warlpiri) and <strong>Eileen </strong>(Anmatyerr) are elders who have long been involved in supporting language and culture at Ti Tree School. They are experts on spoken languages, signed languages, women’s ceremonial songs and dances, and sand stories. They are April’s close family and important cultural teachers.\n\n![Caption: Clarrie Kemarr Long and Eileen Perrwerl Campbell\nPhoto: Jennifer Green](assets/AnmWeb1-HOME/AnmWeb1-HOME-02.JPG)\n\nCaption: Clarrie Kemarr Long and Eileen Perrwerl Campbell\nPhoto: Jennifer Green\n\n---\n\n## Acknowledgements\n\nWe thank all the families of April, Clarrie and Eileen who have supported and encouraged us to make this website. Young people are really excited, and they are looking forward to seeing and using it. Also acknowledged is Seraphina Pengart Presley. As a teenager, April was inspired by Seraphina, who played an important role in April’s learning to become a language teacher. Seraphina taught April to read and write in Anmatyerr, and she taught her how to plan and teach two-ways – western way and in her first language.\n\nResearch, consultation and website design by April Campbell, Jennifer Green (The University of Melbourne), Angela Harrison (Batchelor Institute), and Ben Foley (University of Queensland). We also thank those who provided content and feedback, including Myfany Turpin, Steve Berry, Jason Gibson, Margaret Carew, David Strickland, Mingfang Strickland XX.\n\n![Caption: Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025\nPhoto: Peter XX](assets/AnmWeb1-HOME/AnmWeb1-HOME-03.jpg)\n\nCaption: Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025\nPhoto: Peter XX\n\n---\n\n## Funding\n\nThe Language Data Commons of Australia (LDaCA) project receives investment from the Australian Research Data Commons (ARDC) through its HASS and Indigenous Research Data Commons program. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS). Batchelor CALL is funded through the Indigenous Languages and the Arts program.\n\nThis project is an International Decade of Indigenous Languages project.\n\n---\n\n## How to cite this page\n\nCampbell, April Pengart, Jennifer Green, Angela Harrison and Ben Foley.XXXX. Alice Springs: Batchelor Institute. (https://www.veronicadobson.au/.) (Accessed YYYY-MM-DD).\n\n---\n\n## Contact us\n\n<a href=\"mailto:call@batchelor.edu.au?subject=Veronica%20Dobson%20site\" target=\"_blank\">Email us</a> with any feedback about the site.",
+      "articleBody": "## About\n\n<p><strong>Angkety anantherr apwertelh-iletyeh – we are gathering the stories together </strong>is a website that provides a guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell. The website is designed for younger generations and for students who study far away from Ti Tree and want access to cultural and historical stories. It is also a celebration of the significant achievements of these three women.</p>\n\n---\n\n## April Pengart Campbell\n\n<p><strong>April </strong>is an educator, artist and author and a role model for her Anmatyerr people. She currently works teaching language and culture at Ti Tree School. </p>\n\n![Caption: April Pengart Campbell\nPhoto: Jennifer Green](files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg)\n\nCaption: April Pengart Campbell\nPhoto: Jennifer Green\n\n---\n\n## Clarrie Kemarr Long and Eileen Perrwerl Campbell\n\n<p><strong>Clarrie </strong>(Anmatyerr/Warlpiri) and <strong>Eileen </strong>(Anmatyerr) are elders who have long been involved in supporting language and culture at Ti Tree School. They are experts on spoken languages, signed languages, women’s ceremonial songs and dances, and sand stories. They are April’s close family and important cultural teachers.</p>\n\n![Caption: Clarrie Kemarr Long and Eileen Perrwerl Campbell\nPhoto: Jennifer Green](files/AnmWeb1-HOME/media/AnmWeb1-HOME-02.JPG)\n\nCaption: Clarrie Kemarr Long and Eileen Perrwerl Campbell\nPhoto: Jennifer Green\n\n---\n\n## Acknowledgements\n\n<p>We thank all the families of April, Clarrie and Eileen who have supported and encouraged us to make this website. Young people are really excited, and they are looking forward to seeing and using it. Also acknowledged is Seraphina Pengart Presley. As a teenager, April was inspired by Seraphina, who played an important role in April’s learning to become a language teacher. Seraphina taught April to read and write in Anmatyerr, and she taught her how to plan and teach two-ways – western way and in her first language.</p>\n\n<p>Research, consultation and website design by April Campbell, Jennifer Green (The University of Melbourne), Angela Harrison (Batchelor Institute), and Ben Foley (University of Queensland). We also thank those who provided content and feedback, including Myfany Turpin, Steve Berry, Jason Gibson, Margaret Carew, David Strickland, Mingfang Strickland XX.</p>\n\n![Caption: Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025\nPhoto: Peter XX](files/AnmWeb1-HOME/media/AnmWeb1-HOME-03.jpg)\n\nCaption: Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025\nPhoto: Peter XX\n\n---\n\n## Funding\n\n<p>The Language Data Commons of Australia (LDaCA) project receives investment from the Australian Research Data Commons (ARDC) through its HASS and Indigenous Research Data Commons program. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS). Batchelor CALL is funded through the Indigenous Languages and the Arts program.</p>\n\n<p>This project is an International Decade of Indigenous Languages project.</p>\n\n---\n\n## How to cite this page\n\n<p>Campbell, April Pengart, Jennifer Green, Angela Harrison and Ben Foley.XXXX. Alice Springs: Batchelor Institute. (https://www.veronicadobson.au/.) (Accessed YYYY-MM-DD).</p>\n\n---\n\n## Contact us\n\n<p><a href=\"mailto:call@batchelor.edu.au?subject=Veronica%20Dobson%20site\" target=\"_blank\">Email us</a> with any feedback about the site.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-1"
+          "@id": "#AnmWeb1-HOME-Home-chapter-1"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-2"
+          "@id": "#AnmWeb1-HOME-Home-chapter-2"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-3"
+          "@id": "#AnmWeb1-HOME-Home-chapter-3"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-4"
+          "@id": "#AnmWeb1-HOME-Home-chapter-4"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-5"
+          "@id": "#AnmWeb1-HOME-Home-chapter-5"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-6"
+          "@id": "#AnmWeb1-HOME-Home-chapter-6"
         },
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx#chapter-7"
+          "@id": "#AnmWeb1-HOME-Home-chapter-7"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb1-HOME/",
+      "@id": "#AnmWeb1-HOME",
       "@type": "Collection",
       "name": "AnmWeb1-HOME",
       "hasPart": [
         {
-          "@id": "data/AnmWeb1-HOME/Home.docx"
+          "@id": "#AnmWeb1-HOME-Home"
         }
       ]
     },
     {
-      "@id": "media/AprilPengart-01.mp3",
+      "@id": "AprilPengart-01.mp3",
       "@type": "File",
       "name": "AprilPengart-01.mp3"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-01.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-01.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-01.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilPengart-01.mp3"
+        "@id": "AprilPengart-01.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1#media-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-01.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-01.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-01.jpg"
+        }
+      ],
       "caption": "Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE",
       "creditText": "David Hancock"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Born at Nthwerey",
       "headlineLevel": 2,
-      "text": "Today I am going to tell a story about when I was little. I was born in 1967 at Nthwerey, in the creek – not in a hospital. I grew up at Ti Tree station. I used to go hunting with my grandparents, my mother's mother and mother's father. They taught me how to hunt for alangkw (bush bananas), nyematy (witchetty grubs) and yerramp (honey ants). I used to watch my granny and my grandfather hunting for kangaroo. I watched carefully. We went camping out and I used to camp with them.",
+      "text": "<p>Today I am going to tell a story about when I was little. I was born in 1967 at Nthwerey, in the creek – not in a hospital. I grew up at Ti Tree station. I used to go hunting with my grandparents, my mother's mother and mother's father. They taught me how to hunt for alangkw (bush bananas), nyematy (witchetty grubs) and yerramp (honey ants). I used to watch my granny and my grandfather hunting for kangaroo. I watched carefully. We went camping out and I used to camp with them.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1#media-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1-media-2"
         }
       ]
     },
     {
-      "@id": "media/AprilCampbell20100418-02.mp3",
+      "@id": "AprilCampbell20100418-02.mp3",
       "@type": "File",
       "name": "AprilCampbell20100418-02.mp3"
     },
     {
-      "@id": "media/AprilCampbell20100418-03.mp3",
+      "@id": "AprilCampbell20100418-03.mp3",
       "@type": "File",
       "name": "AprilCampbell20100418-03.mp3"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell20100418-02.mp3"
+        "@id": "AprilCampbell20100418-02.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2#media-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2-media-2",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell20100418-03.mp3"
+        "@id": "AprilCampbell20100418-03.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "Learning about Country",
       "headlineLevel": 2,
-      "text": "My granny used to tell me sand stories on the ground. She used to tell me Dreaming stories and stories about women going hunting. I watched really carefully as she told the stories.\n\nThen I used to watch her drawing ceremonial designs. And she told me, “That’s how you have to do it, this is my Country.” My rtartart (mother’s father) told me, “You can draw snakes, or water”. They showed me the soakages and other water sources. All the family went out camping together – my mother came too. We went on foot – we didn't have any vehicles. And on other occasions we went out with donkeys ­– my grandparents would put the swags and water on the donkey. And they’d put me up on the donkey as well. My rtartart would pull the donkey with a rope. We would travel out hunting from Nthwerey to Pwerray, digging up honeyants.\n\nAfter that we went back home, with the meat, desert raisins, bush onions and bush bananas. We stayed at home. After that the Welfare mob came – that's when school started. A small bus came to the station to pick us kids up. The station manager took us to the station house. We had biscuits and milo for breakfast. We went on the bus to school. There was a caravan in the park at Ti Tree Well – that’s where I went to school. Then they started to build a new school. Then I shifted to the new school, to the east of the park. That’s where I went to school.",
+      "text": "<p>My granny used to tell me sand stories on the ground. She used to tell me Dreaming stories and stories about women going hunting. I watched really carefully as she told the stories.</p>\n\n<p>Then I used to watch her drawing ceremonial designs. And she told me, “That’s how you have to do it, this is my Country.” My rtartart (mother’s father) told me, “You can draw snakes, or water”. They showed me the soakages and other water sources. All the family went out camping together – my mother came too. We went on foot – we didn't have any vehicles. And on other occasions we went out with donkeys ­– my grandparents would put the swags and water on the donkey. And they’d put me up on the donkey as well. My rtartart would pull the donkey with a rope. We would travel out hunting from Nthwerey to Pwerray, digging up honeyants.</p>\n\n<p>After that we went back home, with the meat, desert raisins, bush onions and bush bananas. We stayed at home. After that the Welfare mob came – that's when school started. A small bus came to the station to pick us kids up. The station manager took us to the station house. We had biscuits and milo for breakfast. We went on the bus to school. There was a caravan in the park at Ti Tree Well – that’s where I went to school. Then they started to build a new school. Then I shifted to the new school, to the east of the park. That’s where I went to school.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2#media-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2-media-2"
         }
       ]
     },
     {
-      "@id": "media/AprilCampbell20100418-04.mp3",
+      "@id": "AprilCampbell20100418-04.mp3",
       "@type": "File",
       "name": "AprilCampbell20100418-04.mp3"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-3#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-3-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell20100418-04.mp3"
+        "@id": "AprilCampbell20100418-04.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-3",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-3",
       "@type": [
         "Chapter"
       ],
       "position": 3,
       "headline": "Going to boarding school",
       "headlineLevel": 2,
-      "text": "When I was bigger, I went to boarding school at Yirara (in Alice Springs). Lots of us went from Ti Tree, but I was the only one who stayed – the others got homesick and came home. I was doing nothing and then Mick Arundel, who was a friend of my father, asked me, “Do you want a job? Do you want to work in the school as a cleaner? You can make yourself some pocket money”. He had heard that I was back from school and doing nothing. I got a job cleaning the school, then Mick told my story to some of the whitefeller bosses. “She’s a good worker. She always comes to work. She needs a proper job”. Then the Education Department whitefeller said, “There’s one job there as a liason officer. You can work for proper money, a proper job.” Then they put me in that job. When the funding ran out, they put me in for teaching.",
+      "text": "<p>When I was bigger, I went to boarding school at Yirara (in Alice Springs). Lots of us went from Ti Tree, but I was the only one who stayed – the others got homesick and came home. I was doing nothing and then Mick Arundel, who was a friend of my father, asked me, “Do you want a job? Do you want to work in the school as a cleaner? You can make yourself some pocket money”. He had heard that I was back from school and doing nothing. I got a job cleaning the school, then Mick told my story to some of the whitefeller bosses. “She’s a good worker. She always comes to work. She needs a proper job”. Then the Education Department whitefeller said, “There’s one job there as a liason officer. You can work for proper money, a proper job.” Then they put me in that job. When the funding ran out, they put me in for teaching.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-3#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-3-media-1"
         }
       ]
     },
     {
-      "@id": "media/AprilCampbell100418-06.mp3",
+      "@id": "AprilCampbell100418-06.mp3",
       "@type": "File",
       "name": "AprilCampbell100418-06.mp3"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-02.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-02.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-02.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell100418-06.mp3"
+        "@id": "AprilCampbell100418-06.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4#media-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-02.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-02.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-02.jpg"
+        }
+      ],
       "caption": "Ti Tree Land Claim hand back. Peggy Ngal, Megandie Ngal, Alexander Downer, Warren Snowdon, Jack Clancy, Ti Tree Station"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4",
       "@type": [
         "Chapter"
       ],
       "position": 4,
       "headline": "Ti Tree Land Claim",
       "headlineLevel": 2,
-      "text": "I saw people dancing for the Land Claim at Nthurey, all painted up. They were talking about their country. They were talking about getting the country back, so that it would be Aboriginal land.",
+      "text": "<p>I saw people dancing for the Land Claim at Nthurey, all painted up. They were talking about their country. They were talking about getting the country back, so that it would be Aboriginal land.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4#media-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4-media-2"
         }
       ]
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-03.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-03.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-03.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-04.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-04.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-04.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-03.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-03.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-03.jpg"
+        }
+      ],
       "caption": "Shirt for Anmatyerr Dancers. Design April Campbell.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5#media-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-04.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-04.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-04.jpg"
+        }
+      ],
       "caption": "Inernt ‘bean tree seeds’ ready for making necklaces.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5",
       "@type": [
         "Chapter"
       ],
       "position": 5,
       "headline": "Teaching",
       "headlineLevel": 2,
-      "text": "Now I am the arts teacher and the co-ordinator of language and culture at Ti Tree School. I teach the kids to read and write Anmatyerr, and I organize trips. I teach the children painting and I organise them to dance with the elders. I paint at home and I make things like necklaces to sell. I learnt to do all these things from my granny.",
+      "text": "<p>Now I am the arts teacher and the co-ordinator of language and culture at Ti Tree School. I teach the kids to read and write Anmatyerr, and I organize trips. I teach the children painting and I organise them to dance with the elders. I paint at home and I make things like necklaces to sell. I learnt to do all these things from my granny.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5#media-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5-media-2"
         }
       ]
     },
     {
-      "@id": "media/AprilCampbell100418-07.mp3",
+      "@id": "AprilCampbell100418-07.mp3",
       "@type": "File",
       "name": "AprilCampbell100418-07.mp3"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-6#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-6-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell100418-07.mp3"
+        "@id": "AprilCampbell100418-07.mp3"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-6",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-6",
       "@type": [
         "Chapter"
       ],
       "position": 6,
       "headline": "Read and write both ways",
       "headlineLevel": 2,
-      "text": "I want to see the Anmatyerr children reading and writing properly in Anmatyerr.\n\nAnd then maybe they can be interpreters when the government comes here to hold big meetings. They can help our elders by interpreting what they are saying. I want to see that. And if they go a long way to boarding schools in the city, they will still hang on to that knowledge about reading and writing in Anmatyerr. They won’t lose their Anmatyerr language and only speak English. They will be able to read and write both ways. Their own language Anmatyerr, and English. Strong in both.",
+      "text": "<p>I want to see the Anmatyerr children reading and writing properly in Anmatyerr.</p>\n\n<p>And then maybe they can be interpreters when the government comes here to hold big meetings. They can help our elders by interpreting what they are saying. I want to see that. And if they go a long way to boarding schools in the city, they will still hang on to that knowledge about reading and writing in Anmatyerr. They won’t lose their Anmatyerr language and only speak English. They will be able to read and write both ways. Their own language Anmatyerr, and English. Strong in both.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-6#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-6-media-1"
         }
       ]
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-05.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-05.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-05.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-06.jpg",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-06.jpg",
       "@type": "File",
       "name": "AnmWeb2-Recollections-06.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7#media-1",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-05.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-05.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-05.jpg"
+        }
+      ],
       "caption": "April Campbell, graduating with Certificate IV in Teaching an Australian First Nations Language, Batchelor Institute, 2025.",
       "creditText": "Angela Harrison"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7#media-2",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-06.jpg"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-06.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-06.jpg"
+        }
+      ],
       "caption": "April Campbell giving the 2025 Batchelor Institute Graduation student response.",
       "creditText": "Angela Harrison"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7",
       "@type": [
         "Chapter"
       ],
       "position": 7,
       "headline": "Learning Journey",
       "headlineLevel": 2,
-      "text": "FILM: AprilsLearningJourney",
+      "text": "<p>FILM: AprilsLearningJourney</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7#media-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7#media-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7-media-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx",
+      "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart",
       "@type": "Article",
       "name": "April Pengart Campbell",
-      "articleBody": "## Born at Nthwerey\n\nToday I am going to tell a story about when I was little. I was born in 1967 at Nthwerey, in the creek – not in a hospital. I grew up at Ti Tree station. I used to go hunting with my grandparents, my mother's mother and mother's father. They taught me how to hunt for alangkw (bush bananas), nyematy (witchetty grubs) and yerramp (honey ants). I used to watch my granny and my grandfather hunting for kangaroo. I watched carefully. We went camping out and I used to camp with them.\n\n[Sound: media/AprilPengart-01.mp3]\n\n![Caption: Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE\nPhoto: David Hancock](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-01.jpg)\n\nCaption: Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE\nPhoto: David Hancock\n\n---\n\n## Learning about Country\n\nMy granny used to tell me sand stories on the ground. She used to tell me Dreaming stories and stories about women going hunting. I watched really carefully as she told the stories.\n\nThen I used to watch her drawing ceremonial designs. And she told me, “That’s how you have to do it, this is my Country.” My rtartart (mother’s father) told me, “You can draw snakes, or water”. They showed me the soakages and other water sources. All the family went out camping together – my mother came too. We went on foot – we didn't have any vehicles. And on other occasions we went out with donkeys ­– my grandparents would put the swags and water on the donkey. And they’d put me up on the donkey as well. My rtartart would pull the donkey with a rope. We would travel out hunting from Nthwerey to Pwerray, digging up honeyants.\n\nAfter that we went back home, with the meat, desert raisins, bush onions and bush bananas. We stayed at home. After that the Welfare mob came – that's when school started. A small bus came to the station to pick us kids up. The station manager took us to the station house. We had biscuits and milo for breakfast. We went on the bus to school. There was a caravan in the park at Ti Tree Well – that’s where I went to school. Then they started to build a new school. Then I shifted to the new school, to the east of the park. That’s where I went to school.\n\n[Sound: media/AprilCampbell20100418-02.mp3]\n\n[Sound: media/AprilCampbell20100418-03.mp3]\n\n---\n\n## Going to boarding school\n\nWhen I was bigger, I went to boarding school at Yirara (in Alice Springs). Lots of us went from Ti Tree, but I was the only one who stayed – the others got homesick and came home. I was doing nothing and then Mick Arundel, who was a friend of my father, asked me, “Do you want a job? Do you want to work in the school as a cleaner? You can make yourself some pocket money”. He had heard that I was back from school and doing nothing. I got a job cleaning the school, then Mick told my story to some of the whitefeller bosses. “She’s a good worker. She always comes to work. She needs a proper job”. Then the Education Department whitefeller said, “There’s one job there as a liason officer. You can work for proper money, a proper job.” Then they put me in that job. When the funding ran out, they put me in for teaching.\n\n[Sound: media/AprilCampbell20100418-04.mp3]\n\n---\n\n## Ti Tree Land Claim\n\nI saw people dancing for the Land Claim at Nthurey, all painted up. They were talking about their country. They were talking about getting the country back, so that it would be Aboriginal land.\n\n[Sound: media/AprilCampbell100418-06.mp3]\n\n![Caption: Ti Tree Land Claim hand back. Peggy Ngal, Megandie Ngal, Alexander Downer, Warren Snowdon, Jack Clancy, Ti Tree Station](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-02.jpg)\n\nCaption: Ti Tree Land Claim hand back. Peggy Ngal, Megandie Ngal, Alexander Downer, Warren Snowdon, Jack Clancy, Ti Tree Station\n\n---\n\n## Teaching\n\nNow I am the arts teacher and the co-ordinator of language and culture at Ti Tree School. I teach the kids to read and write Anmatyerr, and I organize trips. I teach the children painting and I organise them to dance with the elders. I paint at home and I make things like necklaces to sell. I learnt to do all these things from my granny.\n\n![Caption: Shirt for Anmatyerr Dancers. Design April Campbell.\nPhoto: Jennifer Green](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-03.jpg)\n\nCaption: Shirt for Anmatyerr Dancers. Design April Campbell.\nPhoto: Jennifer Green\n\n![Caption: Inernt ‘bean tree seeds’ ready for making necklaces.\nPhoto: Jennifer Green](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-04.jpg)\n\nCaption: Inernt ‘bean tree seeds’ ready for making necklaces.\nPhoto: Jennifer Green\n\n---\n\n## Read and write both ways\n\nI want to see the Anmatyerr children reading and writing properly in Anmatyerr.\n\nAnd then maybe they can be interpreters when the government comes here to hold big meetings. They can help our elders by interpreting what they are saying. I want to see that. And if they go a long way to boarding schools in the city, they will still hang on to that knowledge about reading and writing in Anmatyerr. They won’t lose their Anmatyerr language and only speak English. They will be able to read and write both ways. Their own language Anmatyerr, and English. Strong in both.\n\n[Sound: media/AprilCampbell100418-07.mp3]\n\n---\n\n## Learning Journey\n\nFILM: AprilsLearningJourney\n\n![Caption: April Campbell, graduating with Certificate IV in Teaching an Australian First Nations Language, Batchelor Institute, 2025.\nPhoto: Angela Harrison](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-05.jpg)\n\nCaption: April Campbell, graduating with Certificate IV in Teaching an Australian First Nations Language, Batchelor Institute, 2025.\nPhoto: Angela Harrison\n\n![Caption: April Campbell giving the 2025 Batchelor Institute Graduation student response.\nPhoto: Angela Harrison](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-06.jpg)\n\nCaption: April Campbell giving the 2025 Batchelor Institute Graduation student response.\nPhoto: Angela Harrison",
+      "articleBody": "## Born at Nthwerey\n\n<p>Today I am going to tell a story about when I was little. I was born in 1967 at Nthwerey, in the creek – not in a hospital. I grew up at Ti Tree station. I used to go hunting with my grandparents, my mother's mother and mother's father. They taught me how to hunt for alangkw (bush bananas), nyematy (witchetty grubs) and yerramp (honey ants). I used to watch my granny and my grandfather hunting for kangaroo. I watched carefully. We went camping out and I used to camp with them.</p>\n\n[Sound: AprilPengart-01.mp3]\n\n![Caption: Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE\nPhoto: David Hancock](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-01.jpg)\n\nCaption: Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE\nPhoto: David Hancock\n\n---\n\n## Learning about Country\n\n<p>My granny used to tell me sand stories on the ground. She used to tell me Dreaming stories and stories about women going hunting. I watched really carefully as she told the stories.</p>\n\n<p>Then I used to watch her drawing ceremonial designs. And she told me, “That’s how you have to do it, this is my Country.” My rtartart (mother’s father) told me, “You can draw snakes, or water”. They showed me the soakages and other water sources. All the family went out camping together – my mother came too. We went on foot – we didn't have any vehicles. And on other occasions we went out with donkeys ­– my grandparents would put the swags and water on the donkey. And they’d put me up on the donkey as well. My rtartart would pull the donkey with a rope. We would travel out hunting from Nthwerey to Pwerray, digging up honeyants.</p>\n\n<p>After that we went back home, with the meat, desert raisins, bush onions and bush bananas. We stayed at home. After that the Welfare mob came – that's when school started. A small bus came to the station to pick us kids up. The station manager took us to the station house. We had biscuits and milo for breakfast. We went on the bus to school. There was a caravan in the park at Ti Tree Well – that’s where I went to school. Then they started to build a new school. Then I shifted to the new school, to the east of the park. That’s where I went to school.</p>\n\n[Sound: AprilCampbell20100418-02.mp3]\n\n[Sound: AprilCampbell20100418-03.mp3]\n\n---\n\n## Going to boarding school\n\n<p>When I was bigger, I went to boarding school at Yirara (in Alice Springs). Lots of us went from Ti Tree, but I was the only one who stayed – the others got homesick and came home. I was doing nothing and then Mick Arundel, who was a friend of my father, asked me, “Do you want a job? Do you want to work in the school as a cleaner? You can make yourself some pocket money”. He had heard that I was back from school and doing nothing. I got a job cleaning the school, then Mick told my story to some of the whitefeller bosses. “She’s a good worker. She always comes to work. She needs a proper job”. Then the Education Department whitefeller said, “There’s one job there as a liason officer. You can work for proper money, a proper job.” Then they put me in that job. When the funding ran out, they put me in for teaching.</p>\n\n[Sound: AprilCampbell20100418-04.mp3]\n\n---\n\n## Ti Tree Land Claim\n\n<p>I saw people dancing for the Land Claim at Nthurey, all painted up. They were talking about their country. They were talking about getting the country back, so that it would be Aboriginal land.</p>\n\n[Sound: AprilCampbell100418-06.mp3]\n\n![Caption: Ti Tree Land Claim hand back. Peggy Ngal, Megandie Ngal, Alexander Downer, Warren Snowdon, Jack Clancy, Ti Tree Station](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-02.jpg)\n\nCaption: Ti Tree Land Claim hand back. Peggy Ngal, Megandie Ngal, Alexander Downer, Warren Snowdon, Jack Clancy, Ti Tree Station\n\n---\n\n## Teaching\n\n<p>Now I am the arts teacher and the co-ordinator of language and culture at Ti Tree School. I teach the kids to read and write Anmatyerr, and I organize trips. I teach the children painting and I organise them to dance with the elders. I paint at home and I make things like necklaces to sell. I learnt to do all these things from my granny.</p>\n\n![Caption: Shirt for Anmatyerr Dancers. Design April Campbell.\nPhoto: Jennifer Green](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-03.jpg)\n\nCaption: Shirt for Anmatyerr Dancers. Design April Campbell.\nPhoto: Jennifer Green\n\n![Caption: Inernt ‘bean tree seeds’ ready for making necklaces.\nPhoto: Jennifer Green](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-04.jpg)\n\nCaption: Inernt ‘bean tree seeds’ ready for making necklaces.\nPhoto: Jennifer Green\n\n---\n\n## Read and write both ways\n\n<p>I want to see the Anmatyerr children reading and writing properly in Anmatyerr.</p>\n\n<p>And then maybe they can be interpreters when the government comes here to hold big meetings. They can help our elders by interpreting what they are saying. I want to see that. And if they go a long way to boarding schools in the city, they will still hang on to that knowledge about reading and writing in Anmatyerr. They won’t lose their Anmatyerr language and only speak English. They will be able to read and write both ways. Their own language Anmatyerr, and English. Strong in both.</p>\n\n[Sound: AprilCampbell100418-07.mp3]\n\n---\n\n## Learning Journey\n\n<p>FILM: AprilsLearningJourney</p>\n\n![Caption: April Campbell, graduating with Certificate IV in Teaching an Australian First Nations Language, Batchelor Institute, 2025.\nPhoto: Angela Harrison](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-05.jpg)\n\nCaption: April Campbell, graduating with Certificate IV in Teaching an Australian First Nations Language, Batchelor Institute, 2025.\nPhoto: Angela Harrison\n\n![Caption: April Campbell giving the 2025 Batchelor Institute Graduation student response.\nPhoto: Angela Harrison](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-06.jpg)\n\nCaption: April Campbell giving the 2025 Batchelor Institute Graduation student response.\nPhoto: Angela Harrison",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-1"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-2"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-2"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-3"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-3"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-4"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-4"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-5"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-5"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-6"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-6"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx#chapter-7"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart-chapter-7"
         }
       ]
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-08.JPG",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-08.JPG",
       "@type": "File",
       "name": "AnmWeb2-Recollections-08.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-09.JPG",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-09.JPG",
       "@type": "File",
       "name": "AnmWeb2-Recollections-09.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1#media-1",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-08.JPG"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-08.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-08.JPG"
+        }
+      ],
       "caption": "Clarrie Kemarr Long teaching young girls to dance awely. Angenty waterhole, July 2011 (L – R) Clarrie Long, Camille Presley, Anika Campbell, Molly Napurrurla Presley, Shakayla Campbell, Lanisha Campbell.",
       "creditText": "Jennifer Green."
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1#media-2",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-09.JPG"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-09.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-09.JPG"
+        }
+      ],
       "caption": "Clarrie Kemarr Long painting the ceremonial kweter with Mer Angenty design. Angenty waterhole, July 2011",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Bullocky Soak",
       "headlineLevel": 2,
-      "text": "When I was little, I was taken to Amakweng (Central Mount Stuart) soakage. I grew up there, army time. At Bullocky soak. Lots of people were living there and my family was watering the cattle. There were big althart ceremonies at Amakweng. We saw them as children. When I was older, I went to work at Anningie Station. We worked there and we were paid with rations. I've grown old here at Ti Tree. We tell the kids stories and teach them awely ceremonies, teach them to dance. We are teaching the children at school so they can hold onto this knowledge after we pass away.\n\n[cant find audio for this]",
+      "text": "<p>When I was little, I was taken to Amakweng (Central Mount Stuart) soakage. I grew up there, army time. At Bullocky soak. Lots of people were living there and my family was watering the cattle. There were big althart ceremonies at Amakweng. We saw them as children. When I was older, I went to work at Anningie Station. We worked there and we were paid with rations. I've grown old here at Ti Tree. We tell the kids stories and teach them awely ceremonies, teach them to dance. We are teaching the children at school so they can hold onto this knowledge after we pass away.</p>\n\n<p>[cant find audio for this]</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1#media-1"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1#media-2"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1-media-2"
         }
       ]
     },
     {
-      "@id": "media/ClarrieKemarr100417-01",
+      "@id": "ClarrieKemarr100417-01",
       "@type": "File",
       "name": "ClarrieKemarr100417-01"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-2#media-1",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/ClarrieKemarr100417-01"
+        "@id": "ClarrieKemarr100417-01"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-2",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "Station work",
       "headlineLevel": 2,
-      "text": "When I was older, I worked at Willowra. I worked there then came back to that same place, Anningie. I worked for that old woman. Shepherding cows, and doing the washing and the ironing. For the whitefellas from the station. We were really healthy, never sick, getting up at daylight. Then I shifted to Ti Tree for good, and that is where I grew old.\n\nWe used to put all the calves in a yard. Then we'd put their mothers in a bigger yard. Then we'd send the calves off again with their mothers. In the evening, off to pasture. We washed the clothes by hand. We did a lot of hard work. We didn’t get paid – we just worked for rations. No money – just tobacco. And we used to get sugar and flour. There wasn’t any money at that time. Clothes and blankets were free. All of the people in the camp got rations, killers. People used to shoot kangaroos and emus. We used to get pie melons and all. The old women cooked them in the ground. When they were cooked, they pulled them out of the hot earth and put them in dishes. They were really delicious, and we ate them when they were cooked. They tasted a bit like bush bananas.",
+      "text": "<p>When I was older, I worked at Willowra. I worked there then came back to that same place, Anningie. I worked for that old woman. Shepherding cows, and doing the washing and the ironing. For the whitefellas from the station. We were really healthy, never sick, getting up at daylight. Then I shifted to Ti Tree for good, and that is where I grew old.</p>\n\n<p>We used to put all the calves in a yard. Then we'd put their mothers in a bigger yard. Then we'd send the calves off again with their mothers. In the evening, off to pasture. We washed the clothes by hand. We did a lot of hard work. We didn’t get paid – we just worked for rations. No money – just tobacco. And we used to get sugar and flour. There wasn’t any money at that time. Clothes and blankets were free. All of the people in the camp got rations, killers. People used to shoot kangaroos and emus. We used to get pie melons and all. The old women cooked them in the ground. When they were cooked, they pulled them out of the hot earth and put them in dishes. They were really delicious, and we ate them when they were cooked. They tasted a bit like bush bananas.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-2#media-1"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-2-media-1"
         }
       ]
     },
     {
-      "@id": "media/ClarrieKemarr100417-03",
+      "@id": "ClarrieKemarr100417-03",
       "@type": "File",
       "name": "ClarrieKemarr100417-03"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-3#media-1",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-3-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/ClarrieKemarr100417-03"
+        "@id": "ClarrieKemarr100417-03"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-3",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-3",
       "@type": [
         "Chapter"
       ],
       "position": 3,
       "headline": "Coniston Massacre",
       "headlineLevel": 2,
-      "text": "One old man, my arreng-arreng (father’s father), used to tell me. He was an old man, a Kemarr. He told us about how they fled in fear from the whitefellers. It all started at a place called Rrkwer (Brooks Soak). Supposedly one whitefeller was killed by whatshisname [Penangk]. After the murder the old man hid in a cave and blocked the entrance up with grass, and the whitefellers could not find that old man. There was a little dog there in the cave. He was shut up inside the cave with the grass covering the entrance. And the dog inside the cave didn’t bark at all. The whitefellers went back again. They couldn’t find him. That was at the place called Rrkwer. He was Penangk, old man. Supposedly he sent his wife to ask for tobacco. Then he got an axe and killed that whitefeller, jealous way, because of his wife.\n\nAfter that the lots of whitefellers, soldiers they got from somewhere, came on camels, and they travelled around and killing Aboriginal people as they went. And that old man Penangk was safe in the cave. The whitefellers looked for him in vain. They massacred people around the Willowra area, right up to Thimpelengkw. They went as far as there, killing the poor people. Some people fled in fear and others passed away. They shot Warlpiri and Anmatyerr people. It started at Coniston. They went around shooting people like dogs, the poor things. They went right up to Thimpelengkw shooting people. From Rrkwer.",
+      "text": "<p>One old man, my arreng-arreng (father’s father), used to tell me. He was an old man, a Kemarr. He told us about how they fled in fear from the whitefellers. It all started at a place called Rrkwer (Brooks Soak). Supposedly one whitefeller was killed by whatshisname [Penangk]. After the murder the old man hid in a cave and blocked the entrance up with grass, and the whitefellers could not find that old man. There was a little dog there in the cave. He was shut up inside the cave with the grass covering the entrance. And the dog inside the cave didn’t bark at all. The whitefellers went back again. They couldn’t find him. That was at the place called Rrkwer. He was Penangk, old man. Supposedly he sent his wife to ask for tobacco. Then he got an axe and killed that whitefeller, jealous way, because of his wife.</p>\n\n<p>After that the lots of whitefellers, soldiers they got from somewhere, came on camels, and they travelled around and killing Aboriginal people as they went. And that old man Penangk was safe in the cave. The whitefellers looked for him in vain. They massacred people around the Willowra area, right up to Thimpelengkw. They went as far as there, killing the poor people. Some people fled in fear and others passed away. They shot Warlpiri and Anmatyerr people. It started at Coniston. They went around shooting people like dogs, the poor things. They went right up to Thimpelengkw shooting people. From Rrkwer.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-3#media-1"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-3-media-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx",
+      "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr",
       "@type": "Article",
       "name": "Clarrie Kemarr Long",
-      "articleBody": "## Bullocky Soak\n\nWhen I was little, I was taken to Amakweng (Central Mount Stuart) soakage. I grew up there, army time. At Bullocky soak. Lots of people were living there and my family was watering the cattle. There were big althart ceremonies at Amakweng. We saw them as children. When I was older, I went to work at Anningie Station. We worked there and we were paid with rations. I've grown old here at Ti Tree. We tell the kids stories and teach them awely ceremonies, teach them to dance. We are teaching the children at school so they can hold onto this knowledge after we pass away.\n\n[cant find audio for this]\n\n![Caption: Clarrie Kemarr Long teaching young girls to dance awely. Angenty waterhole, July 2011 (L – R) Clarrie Long, Camille Presley, Anika Campbell, Molly Napurrurla Presley, Shakayla Campbell, Lanisha Campbell.\nPhoto: Jennifer Green.](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-08.JPG)\n\nCaption: Clarrie Kemarr Long teaching young girls to dance awely. Angenty waterhole, July 2011 (L – R) Clarrie Long, Camille Presley, Anika Campbell, Molly Napurrurla Presley, Shakayla Campbell, Lanisha Campbell.\nPhoto: Jennifer Green.\n\n![Caption: Clarrie Kemarr Long painting the ceremonial kweter with Mer Angenty design. Angenty waterhole, July 2011\nPhoto: Jennifer Green](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-09.JPG)\n\nCaption: Clarrie Kemarr Long painting the ceremonial kweter with Mer Angenty design. Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n---\n\n## Station work\n\nWhen I was older, I worked at Willowra. I worked there then came back to that same place, Anningie. I worked for that old woman. Shepherding cows, and doing the washing and the ironing. For the whitefellas from the station. We were really healthy, never sick, getting up at daylight. Then I shifted to Ti Tree for good, and that is where I grew old.\n\nWe used to put all the calves in a yard. Then we'd put their mothers in a bigger yard. Then we'd send the calves off again with their mothers. In the evening, off to pasture. We washed the clothes by hand. We did a lot of hard work. We didn’t get paid – we just worked for rations. No money – just tobacco. And we used to get sugar and flour. There wasn’t any money at that time. Clothes and blankets were free. All of the people in the camp got rations, killers. People used to shoot kangaroos and emus. We used to get pie melons and all. The old women cooked them in the ground. When they were cooked, they pulled them out of the hot earth and put them in dishes. They were really delicious, and we ate them when they were cooked. They tasted a bit like bush bananas.\n\n[Sound: media/ClarrieKemarr100417-01]\n\n---\n\n## Coniston Massacre\n\nOne old man, my arreng-arreng (father’s father), used to tell me. He was an old man, a Kemarr. He told us about how they fled in fear from the whitefellers. It all started at a place called Rrkwer (Brooks Soak). Supposedly one whitefeller was killed by whatshisname [Penangk]. After the murder the old man hid in a cave and blocked the entrance up with grass, and the whitefellers could not find that old man. There was a little dog there in the cave. He was shut up inside the cave with the grass covering the entrance. And the dog inside the cave didn’t bark at all. The whitefellers went back again. They couldn’t find him. That was at the place called Rrkwer. He was Penangk, old man. Supposedly he sent his wife to ask for tobacco. Then he got an axe and killed that whitefeller, jealous way, because of his wife.\n\nAfter that the lots of whitefellers, soldiers they got from somewhere, came on camels, and they travelled around and killing Aboriginal people as they went. And that old man Penangk was safe in the cave. The whitefellers looked for him in vain. They massacred people around the Willowra area, right up to Thimpelengkw. They went as far as there, killing the poor people. Some people fled in fear and others passed away. They shot Warlpiri and Anmatyerr people. It started at Coniston. They went around shooting people like dogs, the poor things. They went right up to Thimpelengkw shooting people. From Rrkwer.\n\n[Sound: media/ClarrieKemarr100417-03]",
+      "articleBody": "## Bullocky Soak\n\n<p>When I was little, I was taken to Amakweng (Central Mount Stuart) soakage. I grew up there, army time. At Bullocky soak. Lots of people were living there and my family was watering the cattle. There were big althart ceremonies at Amakweng. We saw them as children. When I was older, I went to work at Anningie Station. We worked there and we were paid with rations. I've grown old here at Ti Tree. We tell the kids stories and teach them awely ceremonies, teach them to dance. We are teaching the children at school so they can hold onto this knowledge after we pass away.</p>\n\n<p>[cant find audio for this]</p>\n\n![Caption: Clarrie Kemarr Long teaching young girls to dance awely. Angenty waterhole, July 2011 (L – R) Clarrie Long, Camille Presley, Anika Campbell, Molly Napurrurla Presley, Shakayla Campbell, Lanisha Campbell.\nPhoto: Jennifer Green.](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-08.JPG)\n\nCaption: Clarrie Kemarr Long teaching young girls to dance awely. Angenty waterhole, July 2011 (L – R) Clarrie Long, Camille Presley, Anika Campbell, Molly Napurrurla Presley, Shakayla Campbell, Lanisha Campbell.\nPhoto: Jennifer Green.\n\n![Caption: Clarrie Kemarr Long painting the ceremonial kweter with Mer Angenty design. Angenty waterhole, July 2011\nPhoto: Jennifer Green](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-09.JPG)\n\nCaption: Clarrie Kemarr Long painting the ceremonial kweter with Mer Angenty design. Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n---\n\n## Station work\n\n<p>When I was older, I worked at Willowra. I worked there then came back to that same place, Anningie. I worked for that old woman. Shepherding cows, and doing the washing and the ironing. For the whitefellas from the station. We were really healthy, never sick, getting up at daylight. Then I shifted to Ti Tree for good, and that is where I grew old.</p>\n\n<p>We used to put all the calves in a yard. Then we'd put their mothers in a bigger yard. Then we'd send the calves off again with their mothers. In the evening, off to pasture. We washed the clothes by hand. We did a lot of hard work. We didn’t get paid – we just worked for rations. No money – just tobacco. And we used to get sugar and flour. There wasn’t any money at that time. Clothes and blankets were free. All of the people in the camp got rations, killers. People used to shoot kangaroos and emus. We used to get pie melons and all. The old women cooked them in the ground. When they were cooked, they pulled them out of the hot earth and put them in dishes. They were really delicious, and we ate them when they were cooked. They tasted a bit like bush bananas.</p>\n\n[Sound: ClarrieKemarr100417-01]\n\n---\n\n## Coniston Massacre\n\n<p>One old man, my arreng-arreng (father’s father), used to tell me. He was an old man, a Kemarr. He told us about how they fled in fear from the whitefellers. It all started at a place called Rrkwer (Brooks Soak). Supposedly one whitefeller was killed by whatshisname [Penangk]. After the murder the old man hid in a cave and blocked the entrance up with grass, and the whitefellers could not find that old man. There was a little dog there in the cave. He was shut up inside the cave with the grass covering the entrance. And the dog inside the cave didn’t bark at all. The whitefellers went back again. They couldn’t find him. That was at the place called Rrkwer. He was Penangk, old man. Supposedly he sent his wife to ask for tobacco. Then he got an axe and killed that whitefeller, jealous way, because of his wife.</p>\n\n<p>After that the lots of whitefellers, soldiers they got from somewhere, came on camels, and they travelled around and killing Aboriginal people as they went. And that old man Penangk was safe in the cave. The whitefellers looked for him in vain. They massacred people around the Willowra area, right up to Thimpelengkw. They went as far as there, killing the poor people. Some people fled in fear and others passed away. They shot Warlpiri and Anmatyerr people. It started at Coniston. They went around shooting people like dogs, the poor things. They went right up to Thimpelengkw shooting people. From Rrkwer.</p>\n\n[Sound: ClarrieKemarr100417-03]",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-1"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-2"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-2"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx#chapter-3"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr-chapter-3"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-1#media-1",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-1-media-1",
       "@type": "CreativeWork",
       "caption": "AnmWeb2-Recollections-10\nYoung Aningie women (1960-64) TT1-0001403 Sunday church service, Anningie station. (L – R) Eileen Pwerrerl Campbell, Mary Kemarr Woods (front) OR LYNETTE WOODS?, Nancy Kemarr Woods (back), Clarrie Kemarr Long.",
       "creditText": "Scherer collection"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-1",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-1",
       "@type": [
         "Chapter"
       ],
@@ -707,434 +762,479 @@
       "text": "",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-1#media-1"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-1-media-1"
         }
       ]
     },
     {
-      "@id": "media/EileenPerrwerl100417-01",
+      "@id": "EileenPerrwerl100417-01",
       "@type": "File",
       "name": "EileenPerrwerl100417-01"
     },
     {
-      "@id": "media/EileenPerrwerl100417-04",
+      "@id": "EileenPerrwerl100417-04",
       "@type": "File",
       "name": "EileenPerrwerl100417-04"
     },
     {
-      "@id": "media/EileenPerrwerl100417-02",
+      "@id": "EileenPerrwerl100417-02",
       "@type": "File",
       "name": "EileenPerrwerl100417-02"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-11.png",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-11.png",
       "@type": "File",
       "name": "AnmWeb2-Recollections-11.png",
       "encodingFormat": "image/png"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-12.png",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-12.png",
       "@type": "File",
       "name": "AnmWeb2-Recollections-12.png",
       "encodingFormat": "image/png"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-1",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/EileenPerrwerl100417-01"
+        "@id": "EileenPerrwerl100417-01"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-2",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-2",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/EileenPerrwerl100417-04"
+        "@id": "EileenPerrwerl100417-04"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-3",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-3",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/EileenPerrwerl100417-02"
+        "@id": "EileenPerrwerl100417-02"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-4",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-4",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-11.png"
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-11.png"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-11.png"
+        }
+      ],
       "caption": "Eileen Campbell standing outside the old meat house at Anningie station, April 2008",
       "creditText": "M Carew or D Strickland"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-5",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-5",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-12.png"
-      }
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-12.png"
+      },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-12.png"
+        }
+      ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "Nthwerey",
       "headlineLevel": 2,
-      "text": "I was born at Nthwerey, and I grew up there. Nthwerey is my <em>menh-menh</em> (mother’s mother’s) country, my grannie’s country. Then after that we went on foot to Anningie Station, when I was a bigger child. We went there because of sorry business. My parents, and all the brothers, and we took two grandfathers as well. We went on foot carrying our swags on our backs.\n\nMy tyemey (mother’s father) used to tell us kids Dreaming stories at night. And my old granny used to tell them as well. Anengkerr (Dreaming) stories. They used to tell us stories to make us go to sleep. We listened carefully to the old stories, Anengkerr. My grandmother, old Polly, used to tell us these stories, the old stories.\n\nClarrie and I started working at Anningie for the whitefellers. Clarrie was already working there, and then they got me to work. Late in the afternoon we’d bring the cows in – put the calves in the yard and put the mothers in another yard. We milked the cows for the whitefellers. We let the cows go out to graze. And then we washed the clothes and the plates. Then we’d do the ironing. They gave us rations, flour in a bag, and sugar, olden-time tea leaf and niki niki (block) tobacco. The working mob were given clothes and blankets for free. My father worked as a stockman and my mother got rations. My father was a stockman at Anningie. Then we went back again to Nthwerey. Then I worked in the kitchen. I worked at Ti Tree station for Heffernan.",
+      "text": "<p>I was born at Nthwerey, and I grew up there. Nthwerey is my <em>menh-menh</em> (mother’s mother’s) country, my grannie’s country. Then after that we went on foot to Anningie Station, when I was a bigger child. We went there because of sorry business. My parents, and all the brothers, and we took two grandfathers as well. We went on foot carrying our swags on our backs.</p>\n\n<p>My tyemey (mother’s father) used to tell us kids Dreaming stories at night. And my old granny used to tell them as well. Anengkerr (Dreaming) stories. They used to tell us stories to make us go to sleep. We listened carefully to the old stories, Anengkerr. My grandmother, old Polly, used to tell us these stories, the old stories.</p>\n\n<p>Clarrie and I started working at Anningie for the whitefellers. Clarrie was already working there, and then they got me to work. Late in the afternoon we’d bring the cows in – put the calves in the yard and put the mothers in another yard. We milked the cows for the whitefellers. We let the cows go out to graze. And then we washed the clothes and the plates. Then we’d do the ironing. They gave us rations, flour in a bag, and sugar, olden-time tea leaf and niki niki (block) tobacco. The working mob were given clothes and blankets for free. My father worked as a stockman and my mother got rations. My father was a stockman at Anningie. Then we went back again to Nthwerey. Then I worked in the kitchen. I worked at Ti Tree station for Heffernan.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-1"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-2"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-2"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-3"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-3"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-4"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-4"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2#media-5"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2-media-5"
         }
       ]
     },
     {
-      "@id": "media/EileenPerrwerl100417-03",
+      "@id": "EileenPerrwerl100417-03",
       "@type": "File",
       "name": "EileenPerrwerl100417-03"
     },
     {
-      "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-13.png",
+      "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-13.png",
       "@type": "File",
       "name": "AnmWeb2-Recollections-13.png",
       "encodingFormat": "image/png"
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3#media-1",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/EileenPerrwerl100417-03"
+        "@id": "EileenPerrwerl100417-03"
       }
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3#media-2",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/AnmWeb2_Recollections/AnmWeb2-Recollections-13.png"
-      }
+        "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-13.png"
+      },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-13.png"
+        }
+      ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3",
       "@type": [
         "Chapter"
       ],
       "position": 3,
       "headline": "Hunting",
       "headlineLevel": 2,
-      "text": "We used to go right up to Aileron on foot, hunting for yerramp (honeyants), and katyerr (desert raisins). We were hoping to get food, and we would bring it back, carrying it in bags on our heads. Picking the desert raisins and putting them in the bags that we carried on our heads. At that time, we were living at Irlpereny (Arden’s Soak). My father and my old granny, mum’s uncle, they went all the way to Aileron on foot. Hoping to get some food, or tobacco. They would carry it back in a bag on their heads. If Aboriginal people came, strangers from other places, hoping to get food or tobacco, the whitefellers got really angry and rounded them up with horses. Aboriginal people would only come out at night, and then they would wipe their tracks away with branches. If the whitefellers saw the tracks they would hit the people with whips.",
+      "text": "<p>We used to go right up to Aileron on foot, hunting for yerramp (honeyants), and katyerr (desert raisins). We were hoping to get food, and we would bring it back, carrying it in bags on our heads. Picking the desert raisins and putting them in the bags that we carried on our heads. At that time, we were living at Irlpereny (Arden’s Soak). My father and my old granny, mum’s uncle, they went all the way to Aileron on foot. Hoping to get some food, or tobacco. They would carry it back in a bag on their heads. If Aboriginal people came, strangers from other places, hoping to get food or tobacco, the whitefellers got really angry and rounded them up with horses. Aboriginal people would only come out at night, and then they would wipe their tracks away with branches. If the whitefellers saw the tracks they would hit the people with whips.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3#media-1"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3-media-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3#media-2"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3-media-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx",
+      "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell",
       "@type": "Article",
       "name": "Eileen Perrwerl Campbell",
-      "articleBody": "## Working at Anningie Station\n\nCaption: AnmWeb2-Recollections-10\nYoung Aningie women (1960-64) TT1-0001403 Sunday church service, Anningie station. (L – R) Eileen Pwerrerl Campbell, Mary Kemarr Woods (front) OR LYNETTE WOODS?, Nancy Kemarr Woods (back), Clarrie Kemarr Long.\nPhoto: Scherer collection\n\n---\n\n## Nthwerey\n\nI was born at Nthwerey, and I grew up there. Nthwerey is my <em>menh-menh</em> (mother’s mother’s) country, my grannie’s country. Then after that we went on foot to Anningie Station, when I was a bigger child. We went there because of sorry business. My parents, and all the brothers, and we took two grandfathers as well. We went on foot carrying our swags on our backs.\n\nMy tyemey (mother’s father) used to tell us kids Dreaming stories at night. And my old granny used to tell them as well. Anengkerr (Dreaming) stories. They used to tell us stories to make us go to sleep. We listened carefully to the old stories, Anengkerr. My grandmother, old Polly, used to tell us these stories, the old stories.\n\nClarrie and I started working at Anningie for the whitefellers. Clarrie was already working there, and then they got me to work. Late in the afternoon we’d bring the cows in – put the calves in the yard and put the mothers in another yard. We milked the cows for the whitefellers. We let the cows go out to graze. And then we washed the clothes and the plates. Then we’d do the ironing. They gave us rations, flour in a bag, and sugar, olden-time tea leaf and niki niki (block) tobacco. The working mob were given clothes and blankets for free. My father worked as a stockman and my mother got rations. My father was a stockman at Anningie. Then we went back again to Nthwerey. Then I worked in the kitchen. I worked at Ti Tree station for Heffernan.\n\n[Sound: media/EileenPerrwerl100417-01]\n\n[Sound: media/EileenPerrwerl100417-04]\n\n[Sound: media/EileenPerrwerl100417-02]\n\n![Caption: Eileen Campbell standing outside the old meat house at Anningie station, April 2008\nPhoto: M Carew or D Strickland](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-11.png)\n\nCaption: Eileen Campbell standing outside the old meat house at Anningie station, April 2008\nPhoto: M Carew or D Strickland\n\n![Nthwerey](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-12.png)\n\n---\n\n## Hunting\n\nWe used to go right up to Aileron on foot, hunting for yerramp (honeyants), and katyerr (desert raisins). We were hoping to get food, and we would bring it back, carrying it in bags on our heads. Picking the desert raisins and putting them in the bags that we carried on our heads. At that time, we were living at Irlpereny (Arden’s Soak). My father and my old granny, mum’s uncle, they went all the way to Aileron on foot. Hoping to get some food, or tobacco. They would carry it back in a bag on their heads. If Aboriginal people came, strangers from other places, hoping to get food or tobacco, the whitefellers got really angry and rounded them up with horses. Aboriginal people would only come out at night, and then they would wipe their tracks away with branches. If the whitefellers saw the tracks they would hit the people with whips.\n\n[Sound: media/EileenPerrwerl100417-03]\n\n![Hunting](assets/AnmWeb2_Recollections/AnmWeb2-Recollections-13.png)",
+      "articleBody": "## Working at Anningie Station\n\nCaption: AnmWeb2-Recollections-10\nYoung Aningie women (1960-64) TT1-0001403 Sunday church service, Anningie station. (L – R) Eileen Pwerrerl Campbell, Mary Kemarr Woods (front) OR LYNETTE WOODS?, Nancy Kemarr Woods (back), Clarrie Kemarr Long.\nPhoto: Scherer collection\n\n---\n\n## Nthwerey\n\n<p>I was born at Nthwerey, and I grew up there. Nthwerey is my <em>menh-menh</em> (mother’s mother’s) country, my grannie’s country. Then after that we went on foot to Anningie Station, when I was a bigger child. We went there because of sorry business. My parents, and all the brothers, and we took two grandfathers as well. We went on foot carrying our swags on our backs.</p>\n\n<p>My tyemey (mother’s father) used to tell us kids Dreaming stories at night. And my old granny used to tell them as well. Anengkerr (Dreaming) stories. They used to tell us stories to make us go to sleep. We listened carefully to the old stories, Anengkerr. My grandmother, old Polly, used to tell us these stories, the old stories.</p>\n\n<p>Clarrie and I started working at Anningie for the whitefellers. Clarrie was already working there, and then they got me to work. Late in the afternoon we’d bring the cows in – put the calves in the yard and put the mothers in another yard. We milked the cows for the whitefellers. We let the cows go out to graze. And then we washed the clothes and the plates. Then we’d do the ironing. They gave us rations, flour in a bag, and sugar, olden-time tea leaf and niki niki (block) tobacco. The working mob were given clothes and blankets for free. My father worked as a stockman and my mother got rations. My father was a stockman at Anningie. Then we went back again to Nthwerey. Then I worked in the kitchen. I worked at Ti Tree station for Heffernan.</p>\n\n[Sound: EileenPerrwerl100417-01]\n\n[Sound: EileenPerrwerl100417-04]\n\n[Sound: EileenPerrwerl100417-02]\n\n![Caption: Eileen Campbell standing outside the old meat house at Anningie station, April 2008\nPhoto: M Carew or D Strickland](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-11.png)\n\nCaption: Eileen Campbell standing outside the old meat house at Anningie station, April 2008\nPhoto: M Carew or D Strickland\n\n![Nthwerey](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-12.png)\n\n---\n\n## Hunting\n\n<p>We used to go right up to Aileron on foot, hunting for yerramp (honeyants), and katyerr (desert raisins). We were hoping to get food, and we would bring it back, carrying it in bags on our heads. Picking the desert raisins and putting them in the bags that we carried on our heads. At that time, we were living at Irlpereny (Arden’s Soak). My father and my old granny, mum’s uncle, they went all the way to Aileron on foot. Hoping to get some food, or tobacco. They would carry it back in a bag on their heads. If Aboriginal people came, strangers from other places, hoping to get food or tobacco, the whitefellers got really angry and rounded them up with horses. Aboriginal people would only come out at night, and then they would wipe their tracks away with branches. If the whitefellers saw the tracks they would hit the people with whips.</p>\n\n[Sound: EileenPerrwerl100417-03]\n\n![Hunting](files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-13.png)",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-1"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-1"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-2"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-2"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx#chapter-3"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell-chapter-3"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb2_Recollections/",
+      "@id": "#AnmWeb2_Recollections",
       "@type": "Collection",
       "name": "AnmWeb2_Recollections",
       "hasPart": [
         {
-          "@id": "data/AnmWeb2_Recollections/April Campbell Pengart.docx"
+          "@id": "#AnmWeb2_Recollections-April_Campbell_Pengart"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Clarrie Kemarr.docx"
+          "@id": "#AnmWeb2_Recollections-Clarrie_Kemarr"
         },
         {
-          "@id": "data/AnmWeb2_Recollections/Eileen Pwerrerl Campbell.docx"
+          "@id": "#AnmWeb2_Recollections-Eileen_Pwerrerl_Campbell"
         }
       ]
     },
     {
-      "@id": "assets/01-Our Country/OurCountry-01.jpg",
+      "@id": "files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg",
       "@type": "File",
       "name": "OurCountry-01.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/01-Our Country/OurCountry-01.jpg"
+        "@id": "files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg"
+        }
+      ],
       "caption": "<em>Nwern-kenh Mer “Our Country</em>” April Pengart Campbell, 2005."
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/01-Our Country/OurCountry-01.jpg"
+        "@id": "files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg"
+        }
+      ],
       "caption": "Teaching about Country and skin names in the Ti Tree School classroom"
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Map",
       "headlineLevel": 2,
-      "text": "This map was drawn to teach young Anmatyerr people about their countries, so that they can see where they are from and which families they are connected to. It was also drawn so that young people can look at their skin groups as well as those of their grandfathers and other families.",
+      "text": "<p>This map was drawn to teach young Anmatyerr people about their countries, so that they can see where they are from and which families they are connected to. It was also drawn so that young people can look at their skin groups as well as those of their grandfathers and other families.  </p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1-media-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-2",
+      "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "Our Country",
       "headlineLevel": 2,
-      "text": "<em>Map</em> nhenh nwern-kenh mer-akert. <em>Map</em> nhenhel ilem nwern-kenh ikwang map. Nwern <em>family</em> map anem mer nhenh mapek-artwey. Tyerrty Anmatyerr nyent-antey anem. Artekerr-artek mangkem mer arrpenh-warn alhem. Kwer-penh nwern-kenh anem merek-artwey, nyent-antey. Ingkerreny tyerrty arlalty nwern anem.\n\nThis map shows our country. It shows our skin groups. Our families are traditional owners for this country. The Anmatyerr people are all one. They branch out like roots into other country. Then our families are landowners, all one together. All of them are our family.\n\n<em>Colour </em>map anem, ilem mer nwern-kenh. Nthenh-areny apek nwern anem? <em>Colour</em> map pwert anem, lwerenhan kwenh ilem, nwern <em>family</em> angerr anem. Arelh ampwang mapel artwang aywangel-thwen antwerrkem angkety angerr. Angwenhakey-akert, anengkerr-akert, alyelhenty, arlkeny, mpatyel ilem ahern-warn. Nwern anyenem nwern-kenh mer lterrk anthwerr.\n\nThe colours show our country. Which is our traditional country? All the colours are close together, that tells us we are all a big family. The old women and men have a big story. With lots of things, Dreaming stories, songs, ceremonial body markings, and sand drawings. We hold onto our country really strongly.\n\nNwern kwenh alherl-anem mer nwern-kenh-warn, nwern arntarnt-arelhetyek nwern-kenh merlalp map. Nwern ilelhetyek merek-artwey ineh, nwernarl petyek, mer aretyek. Nwern awelhetyek irrernt irlkang Angkety alhem. Yanhan ilem merlalp map angkem anantherreh mwerr. Anantherr kangkwerrenty-kwenh anem, anantherr kwenh irlkert-irrem, mer apek anety-ilerleng.\n\nWhen we go to visit our country, we need to watch out for ourselves from the ancestral spirits. We need to announce our arrival to those landowners, that we have come to look at the country. We will feel the welcome of a cold breeze. That tells us that the spirits are happy with us. If we don’t obey (the law) we will get sick, not respecting our country.\n\nMer nwern-kenh-angkwerr ngkwey anthwerr mwang kwelay alhetyam, mpwarenhetyam kwaty map arnerr-arlk irntang kernel. Kwer-penhan yang kwet-anem pety-alpek mer Rrkwer-warn. Nwern anyenem mer yanh pwert-antey. Nwern kwenh arntarnt-arelhetyek nwern-kenh merlalp map. Kwer-penh nwern kwer map kalty-anthetyek, inangemek antwerrketyenheng angkety nhenh. Inang awelhetyenheng mwerr anthwerr.\n\nLong ago the rainbow snake went through our country and made the water holes and rockholes on top of the hills. Then he returned to Brooke’s Soak. We keep the country all together. We need to respect our ancestral spirits. Then we should teach the children, so they can grab hold of this story. And listen and learn really carefully, so they can feel good about themselves."
+      "text": "<p><em>Map</em> nhenh nwern-kenh mer-akert. <em>Map</em> nhenhel ilem nwern-kenh ikwang map. Nwern <em>family</em> map anem mer nhenh mapek-artwey. Tyerrty Anmatyerr nyent-antey anem. Artekerr-artek mangkem mer arrpenh-warn alhem. Kwer-penh nwern-kenh anem merek-artwey, nyent-antey. Ingkerreny tyerrty arlalty nwern anem.</p>\n\n<p>This map shows our country. It shows our skin groups. Our families are traditional owners for this country. The Anmatyerr people are all one. They branch out like roots into other country. Then our families are landowners, all one together. All of them are our family.</p>\n\n<p><em>Colour </em>map anem, ilem mer nwern-kenh. Nthenh-areny apek nwern anem? <em>Colour</em> map pwert anem, lwerenhan kwenh ilem, nwern <em>family</em> angerr anem. Arelh ampwang mapel artwang aywangel-thwen antwerrkem angkety angerr. Angwenhakey-akert, anengkerr-akert, alyelhenty, arlkeny, mpatyel ilem ahern-warn. Nwern anyenem nwern-kenh mer lterrk anthwerr.</p>\n\n<p>The colours show our country. Which is our traditional country? All the colours are close together, that tells us we are all a big family. The old women and men have a big story. With lots of things, Dreaming stories, songs, ceremonial body markings, and sand drawings. We hold onto our country really strongly.</p>\n\n<p>Nwern kwenh alherl-anem mer nwern-kenh-warn, nwern arntarnt-arelhetyek nwern-kenh merlalp map. Nwern ilelhetyek merek-artwey ineh, nwernarl petyek, mer aretyek. Nwern awelhetyek irrernt irlkang Angkety alhem. Yanhan ilem merlalp map angkem anantherreh mwerr. Anantherr kangkwerrenty-kwenh anem, anantherr kwenh irlkert-irrem, mer apek anety-ilerleng.</p>\n\n<p>When we go to visit our country, we need to watch out for ourselves from the ancestral spirits. We need to announce our arrival to those landowners, that we have come to look at the country. We will feel the welcome of a cold breeze. That tells us that the spirits are happy with us. If we don’t obey (the law) we will get sick, not respecting our country.</p>\n\n<p>Mer nwern-kenh-angkwerr ngkwey anthwerr mwang kwelay alhetyam, mpwarenhetyam kwaty map arnerr-arlk irntang kernel. Kwer-penhan yang kwet-anem pety-alpek mer Rrkwer-warn. Nwern anyenem mer yanh pwert-antey. Nwern kwenh arntarnt-arelhetyek nwern-kenh merlalp map. Kwer-penh nwern kwer map kalty-anthetyek, inangemek antwerrketyenheng angkety nhenh. Inang awelhetyenheng mwerr anthwerr.</p>\n\n<p>Long ago the rainbow snake went through our country and made the water holes and rockholes on top of the hills. Then he returned to Brooke’s Soak. We keep the country all together. We need to respect our ancestral spirits. Then we should teach the children, so they can grab hold of this story. And listen and learn really carefully, so they can feel good about themselves.</p>"
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx",
+      "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country",
       "@type": "Article",
       "name": "Nwern-kenh Mer “Our Country”",
-      "articleBody": "## Map\n\nThis map was drawn to teach young Anmatyerr people about their countries, so that they can see where they are from and which families they are connected to. It was also drawn so that young people can look at their skin groups as well as those of their grandfathers and other families.\n\n![Caption: <em>Nwern-kenh Mer “Our Country</em>” April Pengart Campbell, 2005.](assets/01-Our Country/OurCountry-01.jpg)\n\nCaption: <em>Nwern-kenh Mer “Our Country</em>” April Pengart Campbell, 2005.\n\n![Caption: Teaching about Country and skin names in the Ti Tree School classroom](assets/01-Our Country/OurCountry-01.jpg)\n\nCaption: Teaching about Country and skin names in the Ti Tree School classroom\n\n---\n\n## Our Country\n\n<em>Map</em> nhenh nwern-kenh mer-akert. <em>Map</em> nhenhel ilem nwern-kenh ikwang map. Nwern <em>family</em> map anem mer nhenh mapek-artwey. Tyerrty Anmatyerr nyent-antey anem. Artekerr-artek mangkem mer arrpenh-warn alhem. Kwer-penh nwern-kenh anem merek-artwey, nyent-antey. Ingkerreny tyerrty arlalty nwern anem.\n\nThis map shows our country. It shows our skin groups. Our families are traditional owners for this country. The Anmatyerr people are all one. They branch out like roots into other country. Then our families are landowners, all one together. All of them are our family.\n\n<em>Colour </em>map anem, ilem mer nwern-kenh. Nthenh-areny apek nwern anem? <em>Colour</em> map pwert anem, lwerenhan kwenh ilem, nwern <em>family</em> angerr anem. Arelh ampwang mapel artwang aywangel-thwen antwerrkem angkety angerr. Angwenhakey-akert, anengkerr-akert, alyelhenty, arlkeny, mpatyel ilem ahern-warn. Nwern anyenem nwern-kenh mer lterrk anthwerr.\n\nThe colours show our country. Which is our traditional country? All the colours are close together, that tells us we are all a big family. The old women and men have a big story. With lots of things, Dreaming stories, songs, ceremonial body markings, and sand drawings. We hold onto our country really strongly.\n\nNwern kwenh alherl-anem mer nwern-kenh-warn, nwern arntarnt-arelhetyek nwern-kenh merlalp map. Nwern ilelhetyek merek-artwey ineh, nwernarl petyek, mer aretyek. Nwern awelhetyek irrernt irlkang Angkety alhem. Yanhan ilem merlalp map angkem anantherreh mwerr. Anantherr kangkwerrenty-kwenh anem, anantherr kwenh irlkert-irrem, mer apek anety-ilerleng.\n\nWhen we go to visit our country, we need to watch out for ourselves from the ancestral spirits. We need to announce our arrival to those landowners, that we have come to look at the country. We will feel the welcome of a cold breeze. That tells us that the spirits are happy with us. If we don’t obey (the law) we will get sick, not respecting our country.\n\nMer nwern-kenh-angkwerr ngkwey anthwerr mwang kwelay alhetyam, mpwarenhetyam kwaty map arnerr-arlk irntang kernel. Kwer-penhan yang kwet-anem pety-alpek mer Rrkwer-warn. Nwern anyenem mer yanh pwert-antey. Nwern kwenh arntarnt-arelhetyek nwern-kenh merlalp map. Kwer-penh nwern kwer map kalty-anthetyek, inangemek antwerrketyenheng angkety nhenh. Inang awelhetyenheng mwerr anthwerr.\n\nLong ago the rainbow snake went through our country and made the water holes and rockholes on top of the hills. Then he returned to Brooke’s Soak. We keep the country all together. We need to respect our ancestral spirits. Then we should teach the children, so they can grab hold of this story. And listen and learn really carefully, so they can feel good about themselves.",
+      "articleBody": "## Map\n\n<p>This map was drawn to teach young Anmatyerr people about their countries, so that they can see where they are from and which families they are connected to. It was also drawn so that young people can look at their skin groups as well as those of their grandfathers and other families.  </p>\n\n![Caption: <em>Nwern-kenh Mer “Our Country</em>” April Pengart Campbell, 2005.](files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg)\n\nCaption: <em>Nwern-kenh Mer “Our Country</em>” April Pengart Campbell, 2005.\n\n![Caption: Teaching about Country and skin names in the Ti Tree School classroom](files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg)\n\nCaption: Teaching about Country and skin names in the Ti Tree School classroom\n\n---\n\n## Our Country\n\n<p><em>Map</em> nhenh nwern-kenh mer-akert. <em>Map</em> nhenhel ilem nwern-kenh ikwang map. Nwern <em>family</em> map anem mer nhenh mapek-artwey. Tyerrty Anmatyerr nyent-antey anem. Artekerr-artek mangkem mer arrpenh-warn alhem. Kwer-penh nwern-kenh anem merek-artwey, nyent-antey. Ingkerreny tyerrty arlalty nwern anem.</p>\n\n<p>This map shows our country. It shows our skin groups. Our families are traditional owners for this country. The Anmatyerr people are all one. They branch out like roots into other country. Then our families are landowners, all one together. All of them are our family.</p>\n\n<p><em>Colour </em>map anem, ilem mer nwern-kenh. Nthenh-areny apek nwern anem? <em>Colour</em> map pwert anem, lwerenhan kwenh ilem, nwern <em>family</em> angerr anem. Arelh ampwang mapel artwang aywangel-thwen antwerrkem angkety angerr. Angwenhakey-akert, anengkerr-akert, alyelhenty, arlkeny, mpatyel ilem ahern-warn. Nwern anyenem nwern-kenh mer lterrk anthwerr.</p>\n\n<p>The colours show our country. Which is our traditional country? All the colours are close together, that tells us we are all a big family. The old women and men have a big story. With lots of things, Dreaming stories, songs, ceremonial body markings, and sand drawings. We hold onto our country really strongly.</p>\n\n<p>Nwern kwenh alherl-anem mer nwern-kenh-warn, nwern arntarnt-arelhetyek nwern-kenh merlalp map. Nwern ilelhetyek merek-artwey ineh, nwernarl petyek, mer aretyek. Nwern awelhetyek irrernt irlkang Angkety alhem. Yanhan ilem merlalp map angkem anantherreh mwerr. Anantherr kangkwerrenty-kwenh anem, anantherr kwenh irlkert-irrem, mer apek anety-ilerleng.</p>\n\n<p>When we go to visit our country, we need to watch out for ourselves from the ancestral spirits. We need to announce our arrival to those landowners, that we have come to look at the country. We will feel the welcome of a cold breeze. That tells us that the spirits are happy with us. If we don’t obey (the law) we will get sick, not respecting our country.</p>\n\n<p>Mer nwern-kenh-angkwerr ngkwey anthwerr mwang kwelay alhetyam, mpwarenhetyam kwaty map arnerr-arlk irntang kernel. Kwer-penhan yang kwet-anem pety-alpek mer Rrkwer-warn. Nwern anyenem mer yanh pwert-antey. Nwern kwenh arntarnt-arelhetyek nwern-kenh merlalp map. Kwer-penh nwern kwer map kalty-anthetyek, inangemek antwerrketyenheng angkety nhenh. Inang awelhetyenheng mwerr anthwerr.</p>\n\n<p>Long ago the rainbow snake went through our country and made the water holes and rockholes on top of the hills. Then he returned to Brooke’s Soak. We keep the country all together. We need to respect our ancestral spirits. Then we should teach the children, so they can grab hold of this story. And listen and learn really carefully, so they can feel good about themselves.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx#chapter-2"
+          "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country-chapter-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/01-Our Country/",
-      "@type": "Collection",
-      "name": "01-Our Country",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/Our Country.docx"
-        }
-      ]
-    },
-    {
-      "@id": "assets/02-Angenty book/AngentyBook-01.JPG",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-01.JPG",
       "@type": "File",
       "name": "AngentyBook-01.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/02-Angenty book/AngentyBook-02.JPG",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-02.JPG",
       "@type": "File",
       "name": "AngentyBook-02.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/02-Angenty book/AngentyBook-03.JPG",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-03.JPG",
       "@type": "File",
       "name": "AngentyBook-03.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBook-01.JPG"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-01.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-01.JPG"
+        }
+      ],
       "caption": "Angenty waterhole, 2011",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBook-02.JPG"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-02.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-02.JPG"
+        }
+      ],
       "caption": "April Pengart Campbell, Clarrie Kemarr Long with the ceremonial kweter. Angenty waterhole, July 2011",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-3",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-3",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBook-03.JPG"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-03.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-03.JPG"
+        }
+      ],
       "caption": "XX Angenty waterhole, July 2011",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Angenty waterhole",
       "headlineLevel": 2,
-      "text": "Angenty is a special waterhole in Anmatyerr and Warlpiri country in Central Australia. The Mer Angenty-warn alhem project team recorded the stories and songs connected to this place. Everyone camped in the riverbed and the elders told stories about the ancestral spirits of the country, including mern amar (mulga apple), arrkerr (barn owl), arnamarwengk (spirit women), tywerrk (native fig), and alharrenty (the monster). Senior women painted up the young girls and taught them some songs and dances.",
+      "text": "<p>Angenty is a special waterhole in Anmatyerr and Warlpiri country in Central Australia. The Mer Angenty-warn alhem project team recorded the stories and songs connected to this place. Everyone camped in the riverbed and the elders told stories about the ancestral spirits of the country, including mern amar (mulga apple), arrkerr (barn owl), arnamarwengk (spirit women), tywerrk (native fig), and alharrenty (the monster). Senior women painted up the young girls and taught them some songs and dances. </p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1#media-3"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1-media-3"
         }
       ]
     },
     {
-      "@id": "assets/02-Angenty book/AngentyBookCover.mp4",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBookCover.mp4",
       "@type": "File",
       "name": "AngentyBookCover.mp4",
       "encodingFormat": "video/mp4"
     },
     {
-      "@id": "assets/02-Angenty book/AngentyBook-04.jpg",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-04.jpg",
       "@type": "File",
       "name": "AngentyBook-04.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/02-Angenty book/AngentyBook-05.jpg",
+      "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-05.jpg",
       "@type": "File",
       "name": "AngentyBook-05.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-1",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBookCover.mp4"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBookCover.mp4"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBookCover.mp4"
+        }
+      ],
       "caption": "To see other films from the Angenty project go to <a href=\"https://vimeo.com/showcase/10766287\">https://vimeo.com/showcase/10766287</a>"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-2",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBook-04.jpg"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-04.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-04.jpg"
+        }
+      ],
       "caption": "Angenty book launch, Ti Tree, 18 May 2016",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-3",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-3",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/02-Angenty book/AngentyBook-05.jpg"
+        "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-05.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-05.jpg"
+        }
+      ],
       "caption": "Cutting the cake, Angenty book launch, Ti Tree, 18 May 2016. NAMES",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "Launching the Angenty book",
       "headlineLevel": 2,
-      "text": "In 2014 April worked with CALL to produce a book and film about Angenty, and these were published by Batchelor Press in 2015. In 2016 everyone got together at Ti Tree to celebrate the launch. https://batchelorpress.com/node/297",
+      "text": "<p>In 2014 April worked with CALL to produce a book and film about Angenty, and these were published by Batchelor Press in 2015. In 2016 everyone got together at Ti Tree to celebrate the launch. https://batchelorpress.com/node/297</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-1"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-2"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2#media-3"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2-media-3"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-3#media-1",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-3-media-1",
       "@type": "CreativeWork",
       "caption": "AngentyBook-06.pdf\nPoster showing ceremonial designs for Angenty Country. Produced by April Campbell and Myfany Turpin with assistance from Jennifer Green. Painting by April Pengart Campbell."
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-3",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-3",
       "@type": [
         "Chapter"
       ],
@@ -1144,558 +1244,563 @@
       "text": "",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-3#media-1"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-3-media-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx",
+      "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book",
       "@type": "Article",
       "name": "Mer Angenty-warn alhem: travelling to Angenty waterhole",
-      "articleBody": "## Angenty waterhole\n\nAngenty is a special waterhole in Anmatyerr and Warlpiri country in Central Australia. The Mer Angenty-warn alhem project team recorded the stories and songs connected to this place. Everyone camped in the riverbed and the elders told stories about the ancestral spirits of the country, including mern amar (mulga apple), arrkerr (barn owl), arnamarwengk (spirit women), tywerrk (native fig), and alharrenty (the monster). Senior women painted up the young girls and taught them some songs and dances.\n\n![Caption: Angenty waterhole, 2011\nPhoto: Jennifer Green](assets/02-Angenty book/AngentyBook-01.JPG)\n\nCaption: Angenty waterhole, 2011\nPhoto: Jennifer Green\n\n![Caption: April Pengart Campbell, Clarrie Kemarr Long with the ceremonial kweter. Angenty waterhole, July 2011\nPhoto: Jennifer Green](assets/02-Angenty book/AngentyBook-02.JPG)\n\nCaption: April Pengart Campbell, Clarrie Kemarr Long with the ceremonial kweter. Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n![Caption: XX Angenty waterhole, July 2011\nPhoto: Jennifer Green](assets/02-Angenty book/AngentyBook-03.JPG)\n\nCaption: XX Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n---\n\n## Launching the Angenty book\n\nIn 2014 April worked with CALL to produce a book and film about Angenty, and these were published by Batchelor Press in 2015. In 2016 everyone got together at Ti Tree to celebrate the launch. https://batchelorpress.com/node/297\n\n![Caption: To see other films from the Angenty project go to <a href=\"https://vimeo.com/showcase/10766287\">https://vimeo.com/showcase/10766287</a>](assets/02-Angenty book/AngentyBookCover.mp4)\n\nCaption: To see other films from the Angenty project go to <a href=\"https://vimeo.com/showcase/10766287\">https://vimeo.com/showcase/10766287</a>\n\n![Caption: Angenty book launch, Ti Tree, 18 May 2016\nPhoto: Jennifer Green](assets/02-Angenty book/AngentyBook-04.jpg)\n\nCaption: Angenty book launch, Ti Tree, 18 May 2016\nPhoto: Jennifer Green\n\n![Caption: Cutting the cake, Angenty book launch, Ti Tree, 18 May 2016. NAMES\nPhoto: Jennifer Green](assets/02-Angenty book/AngentyBook-05.jpg)\n\nCaption: Cutting the cake, Angenty book launch, Ti Tree, 18 May 2016. NAMES\nPhoto: Jennifer Green\n\n---\n\n## Angenty Awely Designs\n\nCaption: AngentyBook-06.pdf\nPoster showing ceremonial designs for Angenty Country. Produced by April Campbell and Myfany Turpin with assistance from Jennifer Green. Painting by April Pengart Campbell.",
+      "articleBody": "## Angenty waterhole\n\n<p>Angenty is a special waterhole in Anmatyerr and Warlpiri country in Central Australia. The Mer Angenty-warn alhem project team recorded the stories and songs connected to this place. Everyone camped in the riverbed and the elders told stories about the ancestral spirits of the country, including mern amar (mulga apple), arrkerr (barn owl), arnamarwengk (spirit women), tywerrk (native fig), and alharrenty (the monster). Senior women painted up the young girls and taught them some songs and dances. </p>\n\n![Caption: Angenty waterhole, 2011\nPhoto: Jennifer Green](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-01.JPG)\n\nCaption: Angenty waterhole, 2011\nPhoto: Jennifer Green\n\n![Caption: April Pengart Campbell, Clarrie Kemarr Long with the ceremonial kweter. Angenty waterhole, July 2011\nPhoto: Jennifer Green](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-02.JPG)\n\nCaption: April Pengart Campbell, Clarrie Kemarr Long with the ceremonial kweter. Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n![Caption: XX Angenty waterhole, July 2011\nPhoto: Jennifer Green](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-03.JPG)\n\nCaption: XX Angenty waterhole, July 2011\nPhoto: Jennifer Green\n\n---\n\n## Launching the Angenty book\n\n<p>In 2014 April worked with CALL to produce a book and film about Angenty, and these were published by Batchelor Press in 2015. In 2016 everyone got together at Ti Tree to celebrate the launch. https://batchelorpress.com/node/297</p>\n\n![Caption: To see other films from the Angenty project go to <a href=\"https://vimeo.com/showcase/10766287\">https://vimeo.com/showcase/10766287</a>](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBookCover.mp4)\n\nCaption: To see other films from the Angenty project go to <a href=\"https://vimeo.com/showcase/10766287\">https://vimeo.com/showcase/10766287</a>\n\n![Caption: Angenty book launch, Ti Tree, 18 May 2016\nPhoto: Jennifer Green](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-04.jpg)\n\nCaption: Angenty book launch, Ti Tree, 18 May 2016\nPhoto: Jennifer Green\n\n![Caption: Cutting the cake, Angenty book launch, Ti Tree, 18 May 2016. NAMES\nPhoto: Jennifer Green](files/AnmWeb3-Projects/02-Angenty book/media/AngentyBook-05.jpg)\n\nCaption: Cutting the cake, Angenty book launch, Ti Tree, 18 May 2016. NAMES\nPhoto: Jennifer Green\n\n---\n\n## Angenty Awely Designs\n\nCaption: AngentyBook-06.pdf\nPoster showing ceremonial designs for Angenty Country. Produced by April Campbell and Myfany Turpin with assistance from Jennifer Green. Painting by April Pengart Campbell.",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-2"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx#chapter-3"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book-chapter-3"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/02-Angenty book/",
-      "@type": "Collection",
-      "name": "02-Angenty book",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/Angenty Book.docx"
-        }
-      ]
-    },
-    {
-      "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-01.jpg",
+      "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-01.jpg",
       "@type": "File",
       "name": "Dictionaries-01.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-02.jpg",
+      "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-02.jpg",
       "@type": "File",
       "name": "Dictionaries-02.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-03.jpg",
+      "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-03.jpg",
       "@type": "File",
       "name": "Dictionaries-03.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-01.jpg"
+        "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-01.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-01.jpg"
+        }
+      ],
       "caption": "<em>The Central Anmatyerr Picture Dictionary</em>, 2003. Cover design April Pengart Campbell"
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-02.jpg"
+        "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-02.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-02.jpg"
+        }
+      ],
       "caption": "A page from <em>The Central Anmatyerr Picture Dictionary</em>."
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-3",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-3",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-03.jpg"
+        "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-03.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-03.jpg"
+        }
+      ],
       "caption": "Cake celebrating the launch of <em>The Central Anmatyerr Picture Dictionary</em>, Ti Tree, 2003.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "The Central Anmatyerr Picture Dictionary",
       "headlineLevel": 2,
-      "text": "The Central Anmatyerr Picture Dictionary was the first in a series of picture dictionaries published for Central Australian languages by <a href=\"https://www.iadpress.com.au/collections/language-learning\">IAD Press</a>. The idea came about at an Anmatyerr education meeting held at Laramba in 2001. Anmatyerr school staff and community elders from Ti Tree, Laramba and Mount Allan decided to use part of an Indigenous Education Strategic Initiatives Program (IESIP) grant to fund the development of a picture dictionary for use by children in their schools. We developed a picture dictionary template that was then used for other Aboriginal languages in Central Australia. \n\nThe Central Anmatyerr Picture Dictionary is a rich resource. It includes nearly 600 words with accompanying drawings. These are arranged in themes: including people, family, country, animals, plants and medicines. There are Anmatyerr sentences illustrating the use of the words, word lists in Anmatyerr and English, and a map of communities and outstations.",
+      "text": "<p>The Central Anmatyerr Picture Dictionary was the first in a series of picture dictionaries published for Central Australian languages by <a href=\"https://www.iadpress.com.au/collections/language-learning\">IAD Press</a>. The idea came about at an Anmatyerr education meeting held at Laramba in 2001. Anmatyerr school staff and community elders from Ti Tree, Laramba and Mount Allan decided to use part of an Indigenous Education Strategic Initiatives Program (IESIP) grant to fund the development of a picture dictionary for use by children in their schools. We developed a picture dictionary template that was then used for other Aboriginal languages in Central Australia. </p>\n\n<p>The Central Anmatyerr Picture Dictionary is a rich resource. It includes nearly 600 words with accompanying drawings. These are arranged in themes: including people, family, country, animals, plants and medicines. There are Anmatyerr sentences illustrating the use of the words, word lists in Anmatyerr and English, and a map of communities and outstations.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1#media-3"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1-media-3"
         }
       ]
     },
     {
-      "@id": "media/AprilCampbell100418-08",
+      "@id": "AprilCampbell100418-08",
       "@type": "File",
       "name": "AprilCampbell100418-08"
     },
     {
-      "@id": "assets/03-AnmatyerrDictionaries/AnmDictionaryFilm.mov",
+      "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/AnmDictionaryFilm.mov",
       "@type": "File",
       "name": "AnmDictionaryFilm.mov",
       "encodingFormat": "video/quicktime"
     },
     {
-      "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-04.jpg",
+      "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-04.jpg",
       "@type": "File",
       "name": "Dictionaries-04.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-1",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "AudioObject"
       ],
       "audio": {
-        "@id": "media/AprilCampbell100418-08"
+        "@id": "AprilCampbell100418-08"
       }
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-2",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/03-AnmatyerrDictionaries/AnmDictionaryFilm.mov"
-      }
-    },
-    {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-3",
-      "@type": [
-        "CreativeWork",
-        "ImageObject"
-      ],
-      "image": {
-        "@id": "assets/03-AnmatyerrDictionaries/Dictionaries-04.jpg"
+        "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/AnmDictionaryFilm.mov"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/AnmDictionaryFilm.mov"
+        }
+      ]
+    },
+    {
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-3",
+      "@type": [
+        "CreativeWork",
+        "ImageObject"
+      ],
+      "image": {
+        "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-04.jpg"
+      },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-04.jpg"
+        }
+      ],
       "caption": "April Pengart Campbell and Jennifer Green cut the cake at the launch of <em>The Central and Eastern Anmatyerr to English Dictionary</em>, Ti Tree School, 200X.",
       "creditText": "XX"
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "The Central & Eastern Anmatyerr to English Dictionary",
       "headlineLevel": 2,
-      "text": "The first big dictionary of the Anmatyerr language was published by IAD Press in 2010. It was the result of many years of work in Anmatyerr bush communities and in Alice Springs. The project took almost a decade to complete, and during this time around 100 Anmatyerr people were involved in documenting their language. April, Eileen and Clarrie worked hard on the dictionary with others from Ti Tree community. The dictionary includes Anmatyerr from across the Anmatyerr region, even though there are some differences between Central Anmatyerr — spoken at Ti Tree and in communities as far west as Mt Allan — and Eastern Anmatyerr, spoken at Stirling and in some Sandover communities. After much thought and discussion, we decided to make one dictionary for Anmatyerr rather than two.  The dictionary contains over 8000 entries and sub-entries, and more than 8500 example sentences. It includes a wealth of cultural information, some grammatical notes, a guide to sounds and spelling, a discussion of the Anmatyerr kinship system, and an English to Anmatyerr finder list.\n\nI felt really happy. First we saw the small one, the Picture Dictionary. We had only started to learn [to write] the Anmatyerr language recently. The linguists helped us to write it down, and to teach the kids. Well, we were really happy. The Picture Dictionary was first, and after that we were happy to see, whatsitname...the big Dictionary. We had started to teach the kids Anmatyerr. Sentences, four or five perhaps. The poor things were learning a bit at a time, but their confidence grew with the dictionary and they learnt to read. I want to see them write a whole page of sentences in Anmatyerr, or stories about their Dreamings and their Country. Stories the elders tell them and record for them – that's the kind of thing that they can learn to write. Then they can be like linguists.",
+      "text": "<p>The first big dictionary of the Anmatyerr language was published by IAD Press in 2010. It was the result of many years of work in Anmatyerr bush communities and in Alice Springs. The project took almost a decade to complete, and during this time around 100 Anmatyerr people were involved in documenting their language. April, Eileen and Clarrie worked hard on the dictionary with others from Ti Tree community. The dictionary includes Anmatyerr from across the Anmatyerr region, even though there are some differences between Central Anmatyerr — spoken at Ti Tree and in communities as far west as Mt Allan — and Eastern Anmatyerr, spoken at Stirling and in some Sandover communities. After much thought and discussion, we decided to make one dictionary for Anmatyerr rather than two.  The dictionary contains over 8000 entries and sub-entries, and more than 8500 example sentences. It includes a wealth of cultural information, some grammatical notes, a guide to sounds and spelling, a discussion of the Anmatyerr kinship system, and an English to Anmatyerr finder list.</p>\n\n<p>I felt really happy. First we saw the small one, the Picture Dictionary. We had only started to learn [to write] the Anmatyerr language recently. The linguists helped us to write it down, and to teach the kids. Well, we were really happy. The Picture Dictionary was first, and after that we were happy to see, whatsitname...the big Dictionary. We had started to teach the kids Anmatyerr. Sentences, four or five perhaps. The poor things were learning a bit at a time, but their confidence grew with the dictionary and they learnt to read. I want to see them write a whole page of sentences in Anmatyerr, or stories about their Dreamings and their Country. Stories the elders tell them and record for them – that's the kind of thing that they can learn to write. Then they can be like linguists.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-1"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-2"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2#media-3"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2-media-3"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx",
+      "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries",
       "@type": "Article",
       "name": "ANMATYERR DICTIONARIES",
-      "articleBody": "## The Central Anmatyerr Picture Dictionary\n\nThe Central Anmatyerr Picture Dictionary was the first in a series of picture dictionaries published for Central Australian languages by <a href=\"https://www.iadpress.com.au/collections/language-learning\">IAD Press</a>. The idea came about at an Anmatyerr education meeting held at Laramba in 2001. Anmatyerr school staff and community elders from Ti Tree, Laramba and Mount Allan decided to use part of an Indigenous Education Strategic Initiatives Program (IESIP) grant to fund the development of a picture dictionary for use by children in their schools. We developed a picture dictionary template that was then used for other Aboriginal languages in Central Australia. \n\nThe Central Anmatyerr Picture Dictionary is a rich resource. It includes nearly 600 words with accompanying drawings. These are arranged in themes: including people, family, country, animals, plants and medicines. There are Anmatyerr sentences illustrating the use of the words, word lists in Anmatyerr and English, and a map of communities and outstations.\n\n![Caption: <em>The Central Anmatyerr Picture Dictionary</em>, 2003. Cover design April Pengart Campbell](assets/03-AnmatyerrDictionaries/Dictionaries-01.jpg)\n\nCaption: <em>The Central Anmatyerr Picture Dictionary</em>, 2003. Cover design April Pengart Campbell\n\n![Caption: A page from <em>The Central Anmatyerr Picture Dictionary</em>.](assets/03-AnmatyerrDictionaries/Dictionaries-02.jpg)\n\nCaption: A page from <em>The Central Anmatyerr Picture Dictionary</em>.\n\n![Caption: Cake celebrating the launch of <em>The Central Anmatyerr Picture Dictionary</em>, Ti Tree, 2003.\nPhoto: Jennifer Green](assets/03-AnmatyerrDictionaries/Dictionaries-03.jpg)\n\nCaption: Cake celebrating the launch of <em>The Central Anmatyerr Picture Dictionary</em>, Ti Tree, 2003.\nPhoto: Jennifer Green\n\n---\n\n## The Central & Eastern Anmatyerr to English Dictionary\n\nThe first big dictionary of the Anmatyerr language was published by IAD Press in 2010. It was the result of many years of work in Anmatyerr bush communities and in Alice Springs. The project took almost a decade to complete, and during this time around 100 Anmatyerr people were involved in documenting their language. April, Eileen and Clarrie worked hard on the dictionary with others from Ti Tree community. The dictionary includes Anmatyerr from across the Anmatyerr region, even though there are some differences between Central Anmatyerr — spoken at Ti Tree and in communities as far west as Mt Allan — and Eastern Anmatyerr, spoken at Stirling and in some Sandover communities. After much thought and discussion, we decided to make one dictionary for Anmatyerr rather than two.  The dictionary contains over 8000 entries and sub-entries, and more than 8500 example sentences. It includes a wealth of cultural information, some grammatical notes, a guide to sounds and spelling, a discussion of the Anmatyerr kinship system, and an English to Anmatyerr finder list.\n\nI felt really happy. First we saw the small one, the Picture Dictionary. We had only started to learn [to write] the Anmatyerr language recently. The linguists helped us to write it down, and to teach the kids. Well, we were really happy. The Picture Dictionary was first, and after that we were happy to see, whatsitname...the big Dictionary. We had started to teach the kids Anmatyerr. Sentences, four or five perhaps. The poor things were learning a bit at a time, but their confidence grew with the dictionary and they learnt to read. I want to see them write a whole page of sentences in Anmatyerr, or stories about their Dreamings and their Country. Stories the elders tell them and record for them – that's the kind of thing that they can learn to write. Then they can be like linguists.\n\n[Sound: media/AprilCampbell100418-08]\n\n![The Central & Eastern Anmatyerr to English Dictionary](assets/03-AnmatyerrDictionaries/AnmDictionaryFilm.mov)\n\n![Caption: April Pengart Campbell and Jennifer Green cut the cake at the launch of <em>The Central and Eastern Anmatyerr to English Dictionary</em>, Ti Tree School, 200X.\nPhoto: XX](assets/03-AnmatyerrDictionaries/Dictionaries-04.jpg)\n\nCaption: April Pengart Campbell and Jennifer Green cut the cake at the launch of <em>The Central and Eastern Anmatyerr to English Dictionary</em>, Ti Tree School, 200X.\nPhoto: XX",
+      "articleBody": "## The Central Anmatyerr Picture Dictionary\n\n<p>The Central Anmatyerr Picture Dictionary was the first in a series of picture dictionaries published for Central Australian languages by <a href=\"https://www.iadpress.com.au/collections/language-learning\">IAD Press</a>. The idea came about at an Anmatyerr education meeting held at Laramba in 2001. Anmatyerr school staff and community elders from Ti Tree, Laramba and Mount Allan decided to use part of an Indigenous Education Strategic Initiatives Program (IESIP) grant to fund the development of a picture dictionary for use by children in their schools. We developed a picture dictionary template that was then used for other Aboriginal languages in Central Australia. </p>\n\n<p>The Central Anmatyerr Picture Dictionary is a rich resource. It includes nearly 600 words with accompanying drawings. These are arranged in themes: including people, family, country, animals, plants and medicines. There are Anmatyerr sentences illustrating the use of the words, word lists in Anmatyerr and English, and a map of communities and outstations.</p>\n\n![Caption: <em>The Central Anmatyerr Picture Dictionary</em>, 2003. Cover design April Pengart Campbell](files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-01.jpg)\n\nCaption: <em>The Central Anmatyerr Picture Dictionary</em>, 2003. Cover design April Pengart Campbell\n\n![Caption: A page from <em>The Central Anmatyerr Picture Dictionary</em>.](files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-02.jpg)\n\nCaption: A page from <em>The Central Anmatyerr Picture Dictionary</em>.\n\n![Caption: Cake celebrating the launch of <em>The Central Anmatyerr Picture Dictionary</em>, Ti Tree, 2003.\nPhoto: Jennifer Green](files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-03.jpg)\n\nCaption: Cake celebrating the launch of <em>The Central Anmatyerr Picture Dictionary</em>, Ti Tree, 2003.\nPhoto: Jennifer Green\n\n---\n\n## The Central & Eastern Anmatyerr to English Dictionary\n\n<p>The first big dictionary of the Anmatyerr language was published by IAD Press in 2010. It was the result of many years of work in Anmatyerr bush communities and in Alice Springs. The project took almost a decade to complete, and during this time around 100 Anmatyerr people were involved in documenting their language. April, Eileen and Clarrie worked hard on the dictionary with others from Ti Tree community. The dictionary includes Anmatyerr from across the Anmatyerr region, even though there are some differences between Central Anmatyerr — spoken at Ti Tree and in communities as far west as Mt Allan — and Eastern Anmatyerr, spoken at Stirling and in some Sandover communities. After much thought and discussion, we decided to make one dictionary for Anmatyerr rather than two.  The dictionary contains over 8000 entries and sub-entries, and more than 8500 example sentences. It includes a wealth of cultural information, some grammatical notes, a guide to sounds and spelling, a discussion of the Anmatyerr kinship system, and an English to Anmatyerr finder list.</p>\n\n<p>I felt really happy. First we saw the small one, the Picture Dictionary. We had only started to learn [to write] the Anmatyerr language recently. The linguists helped us to write it down, and to teach the kids. Well, we were really happy. The Picture Dictionary was first, and after that we were happy to see, whatsitname...the big Dictionary. We had started to teach the kids Anmatyerr. Sentences, four or five perhaps. The poor things were learning a bit at a time, but their confidence grew with the dictionary and they learnt to read. I want to see them write a whole page of sentences in Anmatyerr, or stories about their Dreamings and their Country. Stories the elders tell them and record for them – that's the kind of thing that they can learn to write. Then they can be like linguists.</p>\n\n[Sound: AprilCampbell100418-08]\n\n![The Central & Eastern Anmatyerr to English Dictionary](files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/AnmDictionaryFilm.mov)\n\n![Caption: April Pengart Campbell and Jennifer Green cut the cake at the launch of <em>The Central and Eastern Anmatyerr to English Dictionary</em>, Ti Tree School, 200X.\nPhoto: XX](files/AnmWeb3-Projects/03-AnmatyerrDictionaries/media/Dictionaries-04.jpg)\n\nCaption: April Pengart Campbell and Jennifer Green cut the cake at the launch of <em>The Central and Eastern Anmatyerr to English Dictionary</em>, Ti Tree School, 200X.\nPhoto: XX",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx#chapter-2"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries-chapter-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/",
-      "@type": "Collection",
-      "name": "03-AnmatyerrDictionaries",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/Anmatyerr Dictionaries.docx"
-        }
-      ]
-    },
-    {
-      "@id": "assets/04-SignLanguage/SignLanguage-01.JPG",
+      "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-01.JPG",
       "@type": "File",
       "name": "SignLanguage-01.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/04-SignLanguage/SignLanguage-02.jpg",
+      "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-02.jpg",
       "@type": "File",
       "name": "SignLanguage-02.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/04-SignLanguage/SignLanguage-03.JPG",
+      "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-03.JPG",
       "@type": "File",
       "name": "SignLanguage-03.JPG",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/04-SignLanguage/SignLanguage-04.jpg",
+      "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-04.jpg",
       "@type": "File",
       "name": "SignLanguage-04.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/04-SignLanguage/SignLanguage-01.JPG"
+        "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-01.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-01.JPG"
+        }
+      ],
       "caption": "April Campbell, Gail Woods, Eileen Campbell, Clarrie Long recording sign in the Hanson River, 2011.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/04-SignLanguage/SignLanguage-02.jpg"
+        "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-02.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-02.jpg"
+        }
+      ],
       "caption": "Clarrie Kemarr Long shows the sign for <em>angey </em>‘father’. Ti Tree.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-3",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-3",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/04-SignLanguage/SignLanguage-03.JPG"
+        "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-03.JPG"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-03.JPG"
+        }
+      ],
       "caption": "Margaret Carew, Eileen Campbell, Clarrie Kemarr Long recording sign, Ti Tree, 2015.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-4",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-4",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/04-SignLanguage/SignLanguage-04.jpg"
+        "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-04.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-04.jpg"
+        }
+      ],
       "caption": "Eileen Campbell, April Campbell, Jennifer Green, Clarrie Kemarr Long. Lunchtime in the Hansen River.",
       "creditText": "David Hancock"
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Sign languages",
       "headlineLevel": 2,
-      "text": "Sign languages are an important and valued part of the traditions of Australian Aboriginal peoples. <a href=\"https://www.iltyemiltyem.com/\">The sign language website</a> and dictionary called <em>iltyem iltyem</em>, first established in 2011, is now hosted by Batchelor Institute in Alice Springs. This website is for people who are interested in Aboriginal sign languages – and in particular sign languages from Central and Northern Australia. The Anmatyerr word&nbsp;<strong>iltyem-iltyem</strong>&nbsp;comes from the word&nbsp;<strong>iltya</strong>&nbsp;‘hand, finger’ and it is used in to mean ‘signalling with hands, using handsigns’. This website is named&nbsp;<strong>iltyem-iltyem&nbsp;</strong>because this sign language project began with Anmatyerr people from the community of Ti Tree.&nbsp;April Campbell, Eileen Campbell and Clarrie Long were involved in initial consultations about the website and have contributed their knowledge of Anmatyerr sign to the project. There is general information about Indigenous sign, as well as a dictionary organised in semantic domains. \n\nThe dictionary section of the website now has signs from nine language groups and from eight communities. \n\nFILM _ April talking about sign language\n\nFILM AustGeoFilm",
+      "text": "<p>Sign languages are an important and valued part of the traditions of Australian Aboriginal peoples. <a href=\"https://www.iltyemiltyem.com/\">The sign language website</a> and dictionary called <em>iltyem iltyem</em>, first established in 2011, is now hosted by Batchelor Institute in Alice Springs. This website is for people who are interested in Aboriginal sign languages – and in particular sign languages from Central and Northern Australia. The Anmatyerr word&nbsp;<strong>iltyem-iltyem</strong>&nbsp;comes from the word&nbsp;<strong>iltya</strong>&nbsp;‘hand, finger’ and it is used in to mean ‘signalling with hands, using handsigns’. This website is named&nbsp;<strong>iltyem-iltyem&nbsp;</strong>because this sign language project began with Anmatyerr people from the community of Ti Tree.&nbsp;April Campbell, Eileen Campbell and Clarrie Long were involved in initial consultations about the website and have contributed their knowledge of Anmatyerr sign to the project. There is general information about Indigenous sign, as well as a dictionary organised in semantic domains. </p>\n\n<p>The dictionary section of the website now has signs from nine language groups and from eight communities. </p>\n\n<p>FILM _ April talking about sign language</p>\n\n<p>FILM AustGeoFilm</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-2"
         },
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-3"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-3"
         },
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1#media-4"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1-media-4"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx",
+      "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem",
       "@type": "Article",
       "name": "Iltyem-Iltyem – Sign Languages",
-      "articleBody": "## Sign languages\n\nSign languages are an important and valued part of the traditions of Australian Aboriginal peoples. <a href=\"https://www.iltyemiltyem.com/\">The sign language website</a> and dictionary called <em>iltyem iltyem</em>, first established in 2011, is now hosted by Batchelor Institute in Alice Springs. This website is for people who are interested in Aboriginal sign languages – and in particular sign languages from Central and Northern Australia. The Anmatyerr word&nbsp;<strong>iltyem-iltyem</strong>&nbsp;comes from the word&nbsp;<strong>iltya</strong>&nbsp;‘hand, finger’ and it is used in to mean ‘signalling with hands, using handsigns’. This website is named&nbsp;<strong>iltyem-iltyem&nbsp;</strong>because this sign language project began with Anmatyerr people from the community of Ti Tree.&nbsp;April Campbell, Eileen Campbell and Clarrie Long were involved in initial consultations about the website and have contributed their knowledge of Anmatyerr sign to the project. There is general information about Indigenous sign, as well as a dictionary organised in semantic domains. \n\nThe dictionary section of the website now has signs from nine language groups and from eight communities. \n\nFILM _ April talking about sign language\n\nFILM AustGeoFilm\n\n![Caption: April Campbell, Gail Woods, Eileen Campbell, Clarrie Long recording sign in the Hanson River, 2011.\nPhoto: Jennifer Green](assets/04-SignLanguage/SignLanguage-01.JPG)\n\nCaption: April Campbell, Gail Woods, Eileen Campbell, Clarrie Long recording sign in the Hanson River, 2011.\nPhoto: Jennifer Green\n\n![Caption: Clarrie Kemarr Long shows the sign for <em>angey </em>‘father’. Ti Tree.\nPhoto: Jennifer Green](assets/04-SignLanguage/SignLanguage-02.jpg)\n\nCaption: Clarrie Kemarr Long shows the sign for <em>angey </em>‘father’. Ti Tree.\nPhoto: Jennifer Green\n\n![Caption: Margaret Carew, Eileen Campbell, Clarrie Kemarr Long recording sign, Ti Tree, 2015.\nPhoto: Jennifer Green](assets/04-SignLanguage/SignLanguage-03.JPG)\n\nCaption: Margaret Carew, Eileen Campbell, Clarrie Kemarr Long recording sign, Ti Tree, 2015.\nPhoto: Jennifer Green\n\n![Caption: Eileen Campbell, April Campbell, Jennifer Green, Clarrie Kemarr Long. Lunchtime in the Hansen River.\nPhoto: David Hancock](assets/04-SignLanguage/SignLanguage-04.jpg)\n\nCaption: Eileen Campbell, April Campbell, Jennifer Green, Clarrie Kemarr Long. Lunchtime in the Hansen River.\nPhoto: David Hancock",
+      "articleBody": "## Sign languages\n\n<p>Sign languages are an important and valued part of the traditions of Australian Aboriginal peoples. <a href=\"https://www.iltyemiltyem.com/\">The sign language website</a> and dictionary called <em>iltyem iltyem</em>, first established in 2011, is now hosted by Batchelor Institute in Alice Springs. This website is for people who are interested in Aboriginal sign languages – and in particular sign languages from Central and Northern Australia. The Anmatyerr word&nbsp;<strong>iltyem-iltyem</strong>&nbsp;comes from the word&nbsp;<strong>iltya</strong>&nbsp;‘hand, finger’ and it is used in to mean ‘signalling with hands, using handsigns’. This website is named&nbsp;<strong>iltyem-iltyem&nbsp;</strong>because this sign language project began with Anmatyerr people from the community of Ti Tree.&nbsp;April Campbell, Eileen Campbell and Clarrie Long were involved in initial consultations about the website and have contributed their knowledge of Anmatyerr sign to the project. There is general information about Indigenous sign, as well as a dictionary organised in semantic domains. </p>\n\n<p>The dictionary section of the website now has signs from nine language groups and from eight communities. </p>\n\n<p>FILM _ April talking about sign language</p>\n\n<p>FILM AustGeoFilm</p>\n\n![Caption: April Campbell, Gail Woods, Eileen Campbell, Clarrie Long recording sign in the Hanson River, 2011.\nPhoto: Jennifer Green](files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-01.JPG)\n\nCaption: April Campbell, Gail Woods, Eileen Campbell, Clarrie Long recording sign in the Hanson River, 2011.\nPhoto: Jennifer Green\n\n![Caption: Clarrie Kemarr Long shows the sign for <em>angey </em>‘father’. Ti Tree.\nPhoto: Jennifer Green](files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-02.jpg)\n\nCaption: Clarrie Kemarr Long shows the sign for <em>angey </em>‘father’. Ti Tree.\nPhoto: Jennifer Green\n\n![Caption: Margaret Carew, Eileen Campbell, Clarrie Kemarr Long recording sign, Ti Tree, 2015.\nPhoto: Jennifer Green](files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-03.JPG)\n\nCaption: Margaret Carew, Eileen Campbell, Clarrie Kemarr Long recording sign, Ti Tree, 2015.\nPhoto: Jennifer Green\n\n![Caption: Eileen Campbell, April Campbell, Jennifer Green, Clarrie Kemarr Long. Lunchtime in the Hansen River.\nPhoto: David Hancock](files/AnmWeb3-Projects/04-SignLanguage/media/SignLanguage-04.jpg)\n\nCaption: Eileen Campbell, April Campbell, Jennifer Green, Clarrie Kemarr Long. Lunchtime in the Hansen River.\nPhoto: David Hancock",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem-chapter-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/04-SignLanguage/",
-      "@type": "Collection",
-      "name": "04-SignLanguage",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/Iltyemiltyem.docx"
-        }
-      ]
-    },
-    {
-      "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1-media-1",
       "@type": "CreativeWork",
       "caption": "<a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">Paint Our Skin (Stories Of Our Ancestry)</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">youtube.com</a>"
     },
     {
-      "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1-media-2",
       "@type": "CreativeWork",
       "caption": "<a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">Ti Tree Women's Welcome Dance</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">youtube.com</a>\nTi Tree women perform their welcome dance at Mobfest Tanami 2011."
     },
     {
-      "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Music Outback",
       "headlineLevel": 2,
-      "text": "<a href=\"https://musicoutback.com.au/\">Music Outback Foundation</a>, founded in 2006, works alongside remote Indigenous communities in Central Australia. A group of specialist facilitators help enhance educational outcomes for kids through unique music, songwriting and arts-based workshops. It was April’s idea! The work in schools revolves around the arts and music education festival Mobfest, which was held at Ti Tree from 2008-2012, then again in 2023 and 2024.  At Mobfest students get the opportunity to learn about their culture – while community elders use the festival as a platform to sustain and maintain their traditions.&nbsp; This opportunity to embrace culture in the setting of a school-based event is highly valued by the Ti Tree community, and an important part of Music Outback’s approach to music and arts-based education in remote schools. Community elders, including Eileen Perrwerl Campbell, Clarrie Kemarr Long and April Pengart Campbell, have been central to program delivery to students at Mobfest,&nbsp;with dance, singing, carving and body art at the heart these activities.",
+      "text": "<p><a href=\"https://musicoutback.com.au/\">Music Outback Foundation</a>, founded in 2006, works alongside remote Indigenous communities in Central Australia. A group of specialist facilitators help enhance educational outcomes for kids through unique music, songwriting and arts-based workshops. It was April’s idea! The work in schools revolves around the arts and music education festival Mobfest, which was held at Ti Tree from 2008-2012, then again in 2023 and 2024.  At Mobfest students get the opportunity to learn about their culture – while community elders use the festival as a platform to sustain and maintain their traditions.&nbsp; This opportunity to embrace culture in the setting of a school-based event is highly valued by the Ti Tree community, and an important part of Music Outback’s approach to music and arts-based education in remote schools. Community elders, including Eileen Perrwerl Campbell, Clarrie Kemarr Long and April Pengart Campbell, have been central to program delivery to students at Mobfest,&nbsp;with dance, singing, carving and body art at the heart these activities.</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1-media-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx",
+      "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest",
       "@type": "Article",
       "name": "Mobfest at TiTree",
-      "articleBody": "## Music Outback\n\n<a href=\"https://musicoutback.com.au/\">Music Outback Foundation</a>, founded in 2006, works alongside remote Indigenous communities in Central Australia. A group of specialist facilitators help enhance educational outcomes for kids through unique music, songwriting and arts-based workshops. It was April’s idea! The work in schools revolves around the arts and music education festival Mobfest, which was held at Ti Tree from 2008-2012, then again in 2023 and 2024.  At Mobfest students get the opportunity to learn about their culture – while community elders use the festival as a platform to sustain and maintain their traditions.&nbsp; This opportunity to embrace culture in the setting of a school-based event is highly valued by the Ti Tree community, and an important part of Music Outback’s approach to music and arts-based education in remote schools. Community elders, including Eileen Perrwerl Campbell, Clarrie Kemarr Long and April Pengart Campbell, have been central to program delivery to students at Mobfest,&nbsp;with dance, singing, carving and body art at the heart these activities.\n\nCaption: <a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">Paint Our Skin (Stories Of Our Ancestry)</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">youtube.com</a>\n\nCaption: <a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">Ti Tree Women's Welcome Dance</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">youtube.com</a>\nTi Tree women perform their welcome dance at Mobfest Tanami 2011.",
+      "articleBody": "## Music Outback\n\n<p><a href=\"https://musicoutback.com.au/\">Music Outback Foundation</a>, founded in 2006, works alongside remote Indigenous communities in Central Australia. A group of specialist facilitators help enhance educational outcomes for kids through unique music, songwriting and arts-based workshops. It was April’s idea! The work in schools revolves around the arts and music education festival Mobfest, which was held at Ti Tree from 2008-2012, then again in 2023 and 2024.  At Mobfest students get the opportunity to learn about their culture – while community elders use the festival as a platform to sustain and maintain their traditions.&nbsp; This opportunity to embrace culture in the setting of a school-based event is highly valued by the Ti Tree community, and an important part of Music Outback’s approach to music and arts-based education in remote schools. Community elders, including Eileen Perrwerl Campbell, Clarrie Kemarr Long and April Pengart Campbell, have been central to program delivery to students at Mobfest,&nbsp;with dance, singing, carving and body art at the heart these activities.</p>\n\nCaption: <a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">Paint Our Skin (Stories Of Our Ancestry)</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/9f-lCmOxr6spQV6LRSGfOtR1uLi?domain=youtube.com\" target=\"_blank\">youtube.com</a>\n\nCaption: <a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">Ti Tree Women's Welcome Dance</a>\n<a href=\"https://url.au.m.mimecastprotect.com/s/ZE2wCnxyvXcXR4xp6UJhwtJuv4n?domain=youtube.com\" target=\"_blank\">youtube.com</a>\nTi Tree women perform their welcome dance at Mobfest Tanami 2011.",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest-chapter-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/05-MobFest/",
-      "@type": "Collection",
-      "name": "05-MobFest",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/05-MobFest/Music Outback & Mobfest.docx"
-        }
-      ]
-    },
-    {
-      "@id": "assets/06-sand and string/Sand&String-01.jpeg",
+      "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-01.jpeg",
       "@type": "File",
       "name": "Sand&String-01.jpeg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "assets/06-sand and string/Sand&String-02.jpg",
+      "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-02.jpg",
       "@type": "File",
       "name": "Sand&String-02.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/06-sand and string/Sand&String-01.jpeg"
+        "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-01.jpeg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-01.jpeg"
+        }
+      ],
       "caption": "Eileen, April, XX, Clarrie telling sand stories, Ti Tree, XXX,",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1#media-2",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1-media-2",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/06-sand and string/Sand&String-02.jpg"
+        "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-02.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-02.jpg"
+        }
+      ],
       "caption": "Eileen Campbell telling tyepety stories, Ti Tree, XXX,",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "Storytelling",
       "headlineLevel": 2,
-      "text": "As well as their knowledge of spoken languages, April, Eileen and Clarrie are experts in multimodal forms of storytelling, such as sand stories, called tyepety. Telling sand stories is a verbal art form perfected by women and girls in desert environments of Central Australia. They clear a space on the ground in front of them for drawing on. A small set of drawn symbols represent people, places and objects such a coolamons and digging sticks. Small objects, such as the leaves of eucalypts or wild fig trees, can also be used to represent story characters. The storytellers also talk, sing and use signs and gestures as the narrative unfolds. \n\nFILM: TYEP-20111026-04-S-1",
+      "text": "<p>As well as their knowledge of spoken languages, April, Eileen and Clarrie are experts in multimodal forms of storytelling, such as sand stories, called tyepety. Telling sand stories is a verbal art form perfected by women and girls in desert environments of Central Australia. They clear a space on the ground in front of them for drawing on. A small set of drawn symbols represent people, places and objects such a coolamons and digging sticks. Small objects, such as the leaves of eucalypts or wild fig trees, can also be used to represent story characters. The storytellers also talk, sing and use signs and gestures as the narrative unfolds. </p>\n\n<p>FILM: TYEP-20111026-04-S-1</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1-media-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1#media-2"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1-media-2"
         }
       ]
     },
     {
-      "@id": "assets/06-sand and string/Sand&String-03.jpg",
+      "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-03.jpg",
       "@type": "File",
       "name": "Sand&String-03.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-2#media-1",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-2-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/06-sand and string/Sand&String-03.jpg"
+        "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-03.jpg"
       },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/06-sand and string/media/Sand&String-03.jpg"
+        }
+      ],
       "caption": "April Campbell Pengart, Clarrie Kemarr Long and Emmanisha Kemarr Pepperill at the Second International Workshop on String Figure-Making Practices 19–21 June 2019, Canberra.",
       "creditText": "Jennifer Green"
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-2",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-2",
       "@type": [
         "Chapter"
       ],
       "position": 2,
       "headline": "STRING GAMES",
       "headlineLevel": 2,
-      "text": "Storytelling using string is also called tyepety.  In the desert hair string was traditionally used to make string figures, but nowadays wool is more readily available. Using several colours enables contrasts in designs that are not possible if just hair string is used. The designs are formed by the continuous threading and looping of the string on the fingers. If a person does not have another to assist with the construction of the figures they may use their own feet to secure the ends of the string. Sometimes several women work together, making large string figures with very long strings. April says that the string games are like ‘Indigenous maths’, and children can learn spatial concepts by playing the game. \n\nFILMS: String edit1",
+      "text": "<p>Storytelling using string is also called tyepety.  In the desert hair string was traditionally used to make string figures, but nowadays wool is more readily available. Using several colours enables contrasts in designs that are not possible if just hair string is used. The designs are formed by the continuous threading and looping of the string on the fingers. If a person does not have another to assist with the construction of the figures they may use their own feet to secure the ends of the string. Sometimes several women work together, making large string figures with very long strings. April says that the string games are like ‘Indigenous maths’, and children can learn spatial concepts by playing the game. </p>\n\n<p>FILMS: String edit1</p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-2#media-1"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-2-media-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx",
+      "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String",
       "@type": "Article",
       "name": "SAND STORIES & STRING GAMES",
-      "articleBody": "## Storytelling\n\nAs well as their knowledge of spoken languages, April, Eileen and Clarrie are experts in multimodal forms of storytelling, such as sand stories, called tyepety. Telling sand stories is a verbal art form perfected by women and girls in desert environments of Central Australia. They clear a space on the ground in front of them for drawing on. A small set of drawn symbols represent people, places and objects such a coolamons and digging sticks. Small objects, such as the leaves of eucalypts or wild fig trees, can also be used to represent story characters. The storytellers also talk, sing and use signs and gestures as the narrative unfolds. \n\nFILM: TYEP-20111026-04-S-1\n\n![Caption: Eileen, April, XX, Clarrie telling sand stories, Ti Tree, XXX,\nPhoto: Jennifer Green](assets/06-sand and string/Sand&String-01.jpeg)\n\nCaption: Eileen, April, XX, Clarrie telling sand stories, Ti Tree, XXX,\nPhoto: Jennifer Green\n\n![Caption: Eileen Campbell telling tyepety stories, Ti Tree, XXX,\nPhoto: Jennifer Green](assets/06-sand and string/Sand&String-02.jpg)\n\nCaption: Eileen Campbell telling tyepety stories, Ti Tree, XXX,\nPhoto: Jennifer Green\n\n---\n\n## STRING GAMES\n\nStorytelling using string is also called tyepety.  In the desert hair string was traditionally used to make string figures, but nowadays wool is more readily available. Using several colours enables contrasts in designs that are not possible if just hair string is used. The designs are formed by the continuous threading and looping of the string on the fingers. If a person does not have another to assist with the construction of the figures they may use their own feet to secure the ends of the string. Sometimes several women work together, making large string figures with very long strings. April says that the string games are like ‘Indigenous maths’, and children can learn spatial concepts by playing the game. \n\nFILMS: String edit1\n\n![Caption: April Campbell Pengart, Clarrie Kemarr Long and Emmanisha Kemarr Pepperill at the Second International Workshop on String Figure-Making Practices 19–21 June 2019, Canberra.\nPhoto: Jennifer Green](assets/06-sand and string/Sand&String-03.jpg)\n\nCaption: April Campbell Pengart, Clarrie Kemarr Long and Emmanisha Kemarr Pepperill at the Second International Workshop on String Figure-Making Practices 19–21 June 2019, Canberra.\nPhoto: Jennifer Green",
+      "articleBody": "## Storytelling\n\n<p>As well as their knowledge of spoken languages, April, Eileen and Clarrie are experts in multimodal forms of storytelling, such as sand stories, called tyepety. Telling sand stories is a verbal art form perfected by women and girls in desert environments of Central Australia. They clear a space on the ground in front of them for drawing on. A small set of drawn symbols represent people, places and objects such a coolamons and digging sticks. Small objects, such as the leaves of eucalypts or wild fig trees, can also be used to represent story characters. The storytellers also talk, sing and use signs and gestures as the narrative unfolds. </p>\n\n<p>FILM: TYEP-20111026-04-S-1</p>\n\n![Caption: Eileen, April, XX, Clarrie telling sand stories, Ti Tree, XXX,\nPhoto: Jennifer Green](files/AnmWeb3-Projects/06-sand and string/media/Sand&String-01.jpeg)\n\nCaption: Eileen, April, XX, Clarrie telling sand stories, Ti Tree, XXX,\nPhoto: Jennifer Green\n\n![Caption: Eileen Campbell telling tyepety stories, Ti Tree, XXX,\nPhoto: Jennifer Green](files/AnmWeb3-Projects/06-sand and string/media/Sand&String-02.jpg)\n\nCaption: Eileen Campbell telling tyepety stories, Ti Tree, XXX,\nPhoto: Jennifer Green\n\n---\n\n## STRING GAMES\n\n<p>Storytelling using string is also called tyepety.  In the desert hair string was traditionally used to make string figures, but nowadays wool is more readily available. Using several colours enables contrasts in designs that are not possible if just hair string is used. The designs are formed by the continuous threading and looping of the string on the fingers. If a person does not have another to assist with the construction of the figures they may use their own feet to secure the ends of the string. Sometimes several women work together, making large string figures with very long strings. April says that the string games are like ‘Indigenous maths’, and children can learn spatial concepts by playing the game. </p>\n\n<p>FILMS: String edit1</p>\n\n![Caption: April Campbell Pengart, Clarrie Kemarr Long and Emmanisha Kemarr Pepperill at the Second International Workshop on String Figure-Making Practices 19–21 June 2019, Canberra.\nPhoto: Jennifer Green](files/AnmWeb3-Projects/06-sand and string/media/Sand&String-03.jpg)\n\nCaption: April Campbell Pengart, Clarrie Kemarr Long and Emmanisha Kemarr Pepperill at the Second International Workshop on String Figure-Making Practices 19–21 June 2019, Canberra.\nPhoto: Jennifer Green",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-1"
         },
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx#chapter-2"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String-chapter-2"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/06-sand and string/",
-      "@type": "Collection",
-      "name": "06-sand and string",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/Sand & String.docx"
-        }
-      ]
-    },
-    {
-      "@id": "assets/07-50 Words/50words.jpg",
+      "@id": "files/AnmWeb3-Projects/07-50 Words/media/50words.jpg",
       "@type": "File",
       "name": "50words.jpg",
       "encodingFormat": "image/jpeg"
     },
     {
-      "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx#chapter-1#media-1",
+      "@id": "#AnmWeb3-Projects-07-50_Words-50_words-chapter-1-media-1",
       "@type": [
         "CreativeWork",
         "ImageObject"
       ],
       "image": {
-        "@id": "assets/07-50 Words/50words.jpg"
-      }
+        "@id": "files/AnmWeb3-Projects/07-50 Words/media/50words.jpg"
+      },
+      "hasPart": [
+        {
+          "@id": "files/AnmWeb3-Projects/07-50 Words/media/50words.jpg"
+        }
+      ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx#chapter-1",
+      "@id": "#AnmWeb3-Projects-07-50_Words-50_words-chapter-1",
       "@type": [
         "Chapter"
       ],
       "position": 1,
       "headline": "The 50 words project",
       "headlineLevel": 2,
-      "text": "The <a href=\"https://50words.online/languages/Ikngerre-Ipenhe%20Arrernte%20(Eastern%20Arrernte)\" target=\"_blank\"><strong>50 words project</strong></a><strong> </strong>aims to provide fifty words in every Indigenous language of Australia. The words are online with community permission, and with audio provided by a language speaker. If you go to the website you can hear April Pengart Campbell, the language speaker for Anmatyerr. The languages and words are displayed on a map of Australia so that users can easily find the information relevant to their local area.\n\n<a href=\"https://50words.online/languages/Central%20Anmatyerr\">https://50words.online/languages/Central%20Anmatyerr</a>",
+      "text": "<p>The <a href=\"https://50words.online/languages/Ikngerre-Ipenhe%20Arrernte%20(Eastern%20Arrernte)\" target=\"_blank\"><strong>50 words project</strong></a><strong> </strong>aims to provide fifty words in every Indigenous language of Australia. The words are online with community permission, and with audio provided by a language speaker. If you go to the website you can hear April Pengart Campbell, the language speaker for Anmatyerr. The languages and words are displayed on a map of Australia so that users can easily find the information relevant to their local area.</p>\n\n<p><a href=\"https://50words.online/languages/Central%20Anmatyerr\">https://50words.online/languages/Central%20Anmatyerr</a></p>",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx#chapter-1#media-1"
+          "@id": "#AnmWeb3-Projects-07-50_Words-50_words-chapter-1-media-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx",
+      "@id": "#AnmWeb3-Projects-07-50_Words-50_words",
       "@type": "Article",
       "name": "50 words",
-      "articleBody": "## The 50 words project\n\nThe <a href=\"https://50words.online/languages/Ikngerre-Ipenhe%20Arrernte%20(Eastern%20Arrernte)\" target=\"_blank\"><strong>50 words project</strong></a><strong> </strong>aims to provide fifty words in every Indigenous language of Australia. The words are online with community permission, and with audio provided by a language speaker. If you go to the website you can hear April Pengart Campbell, the language speaker for Anmatyerr. The languages and words are displayed on a map of Australia so that users can easily find the information relevant to their local area.\n\n<a href=\"https://50words.online/languages/Central%20Anmatyerr\">https://50words.online/languages/Central%20Anmatyerr</a>\n\n![The 50 words project](assets/07-50 Words/50words.jpg)",
+      "articleBody": "## The 50 words project\n\n<p>The <a href=\"https://50words.online/languages/Ikngerre-Ipenhe%20Arrernte%20(Eastern%20Arrernte)\" target=\"_blank\"><strong>50 words project</strong></a><strong> </strong>aims to provide fifty words in every Indigenous language of Australia. The words are online with community permission, and with audio provided by a language speaker. If you go to the website you can hear April Pengart Campbell, the language speaker for Anmatyerr. The languages and words are displayed on a map of Australia so that users can easily find the information relevant to their local area.</p>\n\n<p><a href=\"https://50words.online/languages/Central%20Anmatyerr\">https://50words.online/languages/Central%20Anmatyerr</a></p>\n\n![The 50 words project](files/AnmWeb3-Projects/07-50 Words/media/50words.jpg)",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx#chapter-1"
+          "@id": "#AnmWeb3-Projects-07-50_Words-50_words-chapter-1"
         }
       ]
     },
     {
-      "@id": "data/AnmWeb3-Projects/07-50 Words/",
-      "@type": "Collection",
-      "name": "07-50 Words",
-      "hasPart": [
-        {
-          "@id": "data/AnmWeb3-Projects/07-50 Words/50 words.docx"
-        }
-      ]
-    },
-    {
-      "@id": "data/AnmWeb3-Projects/",
+      "@id": "#AnmWeb3-Projects",
       "@type": "Collection",
       "name": "AnmWeb3-Projects",
       "hasPart": [
         {
-          "@id": "data/AnmWeb3-Projects/01-Our Country/"
+          "@id": "#AnmWeb3-Projects-01-Our_Country-Our_Country"
         },
         {
-          "@id": "data/AnmWeb3-Projects/02-Angenty book/"
+          "@id": "#AnmWeb3-Projects-02-Angenty_book-Angenty_Book"
         },
         {
-          "@id": "data/AnmWeb3-Projects/03-AnmatyerrDictionaries/"
+          "@id": "#AnmWeb3-Projects-03-AnmatyerrDictionaries-Anmatyerr_Dictionaries"
         },
         {
-          "@id": "data/AnmWeb3-Projects/04-SignLanguage/"
+          "@id": "#AnmWeb3-Projects-04-SignLanguage-Iltyemiltyem"
         },
         {
-          "@id": "data/AnmWeb3-Projects/05-MobFest/"
+          "@id": "#AnmWeb3-Projects-05-MobFest-Music_Outback_&_Mobfest"
         },
         {
-          "@id": "data/AnmWeb3-Projects/06-sand and string/"
+          "@id": "#AnmWeb3-Projects-06-sand_and_string-Sand_&_String"
         },
         {
-          "@id": "data/AnmWeb3-Projects/07-50 Words/"
+          "@id": "#AnmWeb3-Projects-07-50_Words-50_words"
         }
       ]
     }
