@@ -32,11 +32,7 @@
     <style>
         html, body {
             font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
-            background-color: #d8ffe2;
-            background-image: url(files/images/clouds-background.png);
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center center;
+            background-color: #fff;
             margin: 0;
         }
         .page-title {
@@ -152,6 +148,120 @@
             text-decoration: none;
             color: inherit;
         }
+
+        /* Styles for config.homePageId content override (see displayContent macro below) */
+        .page-shell {
+            min-height: 100vh;
+        }
+        .page-header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            gap: 0.4rem;
+            background: #000;
+            color: #fff;
+            padding: 0.75rem 1rem;
+        }
+        .page-header a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .page-nav {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.5rem;
+            font-size: 0.95rem;
+        }
+        .page-nav a:hover {
+            text-decoration: underline;
+        }
+        .page-nav .nav-sep {
+            opacity: 0.5;
+        }
+        .page-nav .nav-current {
+            font-weight: 700;
+            color: #ff9800;
+        }
+        .doc-page-title {
+            margin: 0;
+            font-size: 1.8rem;
+            font-weight: 500;
+        }
+        .content {
+            width: min(54rem, calc(100vw - 2rem));
+            margin: 2rem auto;
+            padding: 1.5rem;
+            box-sizing: border-box;
+        }
+        .chapter {
+            max-width: 65ch;
+            margin-left: auto;
+            margin-right: auto;
+            border-top: 1px solid rgba(0,0,0,0.08);
+            padding-top: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        .chapter:first-of-type {
+            border-top: 0;
+            padding-top: 0;
+            margin-top: 0;
+        }
+        .chapter h2 {
+            margin: 0 0 0.75rem;
+            font-size: 1.45rem;
+            color: #17301f;
+        }
+        .chapter-copy {
+            line-height: 1.6;
+        }
+        .chapter-copy p:first-child {
+            margin-top: 0;
+        }
+        .media-block {
+            margin-top: 1rem;
+        }
+        .document-part-row {
+            margin: 1rem 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+        }
+        .document-part-row:last-child {
+            margin-bottom: 0;
+        }
+        .document-part-children {
+            margin-left: 1rem;
+            padding-left: 1rem;
+            border-left: 2px solid rgba(0, 0, 0, 0.12);
+        }
+        .part-title {
+            margin: 0 0 0.5rem;
+            color: #17301f;
+            font-size: 1.1rem;
+        }
+        .media-block img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.14);
+        }
+        .media-block audio {
+            width: 100%;
+            max-width: 28rem;
+        }
+        .audio-filename {
+            margin: 0.25rem 0 0;
+            font-size: 0.85rem;
+            color: #44614c;
+        }
+        .caption, .credit {
+            margin: 0.5rem 0 0;
+            line-height: 1.5;
+        }
+        .credit {
+            color: #44614c;
+            font-size: 0.95rem;
+        }
         </style>
 </head>
 <body>
@@ -159,117 +269,253 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
     
 
-    <div id="./" class="root">
-        <div class="header-row">
-            <h2 class="page-title">
-                
-                Anmatyerr language and culture
-                
-            </h2>
-        </div>
+    <div class="page-shell">
+      <header class="page-header">
+        <h1 class="doc-page-title">Angkety anantherr apwertelh-iletyeh</h1>
+        <nav class="page-nav">
+          <a href="ro-crate-preview.html" class="nav-current" aria-current="page">Home</a>
+          
+            
+            
+            
+            
+            
+              
+            
+          
+            
+            
+            
+            
+            
+              <span class="nav-sep">|</span>
+              <a href="ro-crate-preview_html/9a789879/530c1980/86b859ea/16751e46/index.html">Recollections</a>
+            
+          
+            
+            
+            
+            
+            
+              <span class="nav-sep">|</span>
+              <a href="ro-crate-preview_html/73b150ee/9a6de4d0/cecd4b11/606ddf20/index.html">Projects</a>
+            
+          
+            
+            
+            
+            
+            
+              <span class="nav-sep">|</span>
+              <a href="ro-crate-preview_html/39046407/1c0ff532/c4b05bd7/3d4b920a/index.html">Collections &amp; Presentations</a>
+            
+          
+        </nav>
+      </header>
 
+      <main class="content">
         
-        <div class="article-grid">
             
                 
                 
-                
-                
-                
-                
-                <div class="document-card">
+                <section class="chapter">
                     
-                    <a href="ro-crate-preview_html/2d429465/b30aaaf8/a6a853b9/77361141/index.html">
-                        
-                        <div class="document-card-thumb">
-                            <img src="files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg" alt="April Pengart Campbell">
-                        </div>
-                        
-                        <div class="document-card-body">
-                            <div class="document-card-title">AnmWeb1-HOME</div>
-                            <div class="document-card-summary">1 item</div>
-                        </div>
-                    </a>
+                    <h2>About</h2>
                     
-                </div>
+
+                    
+                    <div class="chapter-copy"><p><strong>Angkety anantherr apwertelh-iletyeh – we are gathering the stories together </strong>is a website that provides a guide to the contributions to language and culture of three prominent women who live at Ti Tree in Central Australia – April Pengart Campbell, Clarrie Kemarr Long and Eileen Perrwerl Campbell. The website is designed for younger generations and for students who study far away from Ti Tree and want access to cultural and historical stories. It is also a celebration of the significant achievements of these three women.</p></div>
+                    
+
+                    
+                </section>
                 
             
                 
                 
-                
-                
-                
-                
-                <div class="document-card">
+                <section class="chapter">
                     
-                    <a href="ro-crate-preview_html/9a789879/530c1980/86b859ea/16751e46/index.html">
-                        
-                        <div class="document-card-thumb">
-                            <img src="files/AnmWeb2_Recollections/media/AnmWeb2-Recollections-01.jpg" alt="Drawing a tyepety ‘sand story’ of April’s body design of her country, Angenty. DATE">
-                        </div>
-                        
-                        <div class="document-card-body">
-                            <div class="document-card-title">AnmWeb2_Recollections</div>
-                            <div class="document-card-summary">3 items</div>
-                        </div>
-                    </a>
+                    <h2>April Pengart Campbell</h2>
                     
-                </div>
-                
-            
-                
-                
-                
-                
-                
-                
-                <div class="document-card">
+
                     
-                    <a href="ro-crate-preview_html/73b150ee/9a6de4d0/cecd4b11/606ddf20/index.html">
-                        
-                        <div class="document-card-thumb">
-                            <img src="files/AnmWeb3-Projects/01-Our Country/media/OurCountry-01.jpg" alt="Nwern-kenh Mer “Our Country ” April Pengart Campbell, 2005.">
-                        </div>
-                        
-                        <div class="document-card-body">
-                            <div class="document-card-title">AnmWeb3-Projects</div>
-                            <div class="document-card-summary">7 items</div>
-                        </div>
-                    </a>
+                    <div class="chapter-copy"><p><strong>April </strong>is an educator, artist and author and a role model for her Anmatyerr people. She currently works teaching language and culture at Ti Tree School. </p></div>
                     
-                </div>
-                
-            
-                
-                
-                
-                
-                
-                
-                <div class="document-card">
+
                     
-                    <a href="ro-crate-preview_html/39046407/1c0ff532/c4b05bd7/3d4b920a/index.html">
                         
-                        <div class="document-card-thumb">
-                            <img src="files/AnmWeb4-CollectionsPresentations/media/Publications-01.jpg" alt="Launch of Mer Angenty-Warn Alhem. Travelling to Angenty Country. Ti Tree DATE">
-                        </div>
-                        
-                        <div class="document-card-body">
-                            <div class="document-card-title">AnmWeb4-CollectionsPresentations</div>
-                            <div class="document-card-summary">2 items</div>
-                        </div>
-                    </a>
-                    
-                </div>
-                
-            
-        </div>
+                            
+                            
+                                
+                                    
+    <div class="media-block">
         
-
-
+            
+            <img src="files/AnmWeb1-HOME/media/AnmWeb1-HOME-01.jpg" alt="April Pengart Campbell">
+        
+        
+        
+            <p class="caption">April Pengart Campbell</p>
+        
+        
+            <p class="credit">Jennifer Green</p>
+        
     </div>
+
+                                
+                            
+                        
+                    
+                </section>
+                
+            
+                
+                
+                <section class="chapter">
+                    
+                    <h2>Clarrie Kemarr Long and Eileen Perrwerl Campbell</h2>
+                    
+
+                    
+                    <div class="chapter-copy"><p><strong>Clarrie </strong>(Anmatyerr/Warlpiri) and <strong>Eileen </strong>(Anmatyerr) are elders who have long been involved in supporting language and culture at Ti Tree School. They are experts on spoken languages, signed languages, women’s ceremonial songs and dances, and sand stories. They are April’s close family and important cultural teachers.</p></div>
+                    
+
+                    
+                        
+                            
+                            
+                                
+                                    
+    <div class="media-block">
+        
+            
+            <img src="files/AnmWeb1-HOME/media/AnmWeb1-HOME-02.JPG" alt="Clarrie Kemarr Long and Eileen Perrwerl Campbell">
+        
+        
+        
+            <p class="caption">Clarrie Kemarr Long and Eileen Perrwerl Campbell</p>
+        
+        
+            <p class="credit">Jennifer Green</p>
+        
+    </div>
+
+                                
+                            
+                        
+                    
+                </section>
+                
+            
+                
+                
+                <section class="chapter">
+                    
+                    <h2>Acknowledgements</h2>
+                    
+
+                    
+                    <div class="chapter-copy"><p>We thank all the families of April, Clarrie and Eileen who have supported and encouraged us to make this website. Young people are really excited, and they are looking forward to seeing and using it. Also acknowledged is Seraphina Pengart Presley. As a teenager, April was inspired by Seraphina, who played an important role in April’s learning to become a language teacher. Seraphina taught April to read and write in Anmatyerr, and she taught her how to plan and teach two-ways – western way and in her first language.</p>
+
+<p>Research, consultation and website design by April Campbell, Jennifer Green (The University of Melbourne), Angela Harrison (Batchelor Institute), and Ben Foley (University of Queensland). We also thank those who provided content and feedback, including Myfany Turpin, Steve Berry, Jason Gibson, Margaret Carew, David Strickland, Mingfang Strickland XX.</p></div>
+                    
+
+                    
+                        
+                            
+                            
+                                
+                                    
+    <div class="media-block">
+        
+            
+            <img src="files/AnmWeb1-HOME/media/AnmWeb1-HOME-03.jpg" alt="Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025">
+        
+        
+        
+            <p class="caption">Clarrie Kemarr Long, April Pengart Campbell, Eileen Perrwerl Campbell, Angela Harrison, and Jennifer Green, Ti Tree, 2025</p>
+        
+        
+            <p class="credit">Peter XX</p>
+        
+    </div>
+
+                                
+                            
+                        
+                    
+                </section>
+                
+            
+                
+                
+                <section class="chapter">
+                    
+                    <h2>Funding</h2>
+                    
+
+                    
+                    <div class="chapter-copy"><p>The Language Data Commons of Australia (LDaCA) project receives investment from the Australian Research Data Commons (ARDC) through its HASS and Indigenous Research Data Commons program. The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS). Batchelor CALL is funded through the Indigenous Languages and the Arts program.</p>
+
+<p>This project is an International Decade of Indigenous Languages project.</p></div>
+                    
+
+                    
+                </section>
+                
+            
+                
+                
+                <section class="chapter">
+                    
+                    <h2>How to cite this page</h2>
+                    
+
+                    
+                    <div class="chapter-copy"><p>Campbell, April Pengart, Jennifer Green, Angela Harrison and Ben Foley.XXXX. Alice Springs: Batchelor Institute. (https://www.veronicadobson.au/.) (Accessed YYYY-MM-DD).</p></div>
+                    
+
+                    
+                </section>
+                
+            
+                
+                
+                <section class="chapter">
+                    
+                    <h2>Contact us</h2>
+                    
+
+                    
+                    <div class="chapter-copy"><p><a href="mailto:call@batchelor.edu.au?subject=Veronica%20Dobson%20site" target="_blank">Email us</a> with any feedback about the site.</p></div>
+                    
+
+                    
+                </section>
+                
+            
+        
+      </main>
+    </div>
+
 
 
 </body>
